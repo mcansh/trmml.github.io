@@ -1,9 +1,9 @@
-name: "hikari"
-description: "Fluid, responsive blog theme for Jekyll"
+name: "guy"
+description: "i do stuff"
 
-author: "John Doge"
+author: "Josh Trommel"
 
-url: "http://m3xm.github.io"
+url: "http://trommel.github.io"
 baseurl: ""
 
 markdown: rdiscount
