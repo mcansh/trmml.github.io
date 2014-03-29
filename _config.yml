@@ -7,7 +7,7 @@ url: "http://trommel.github.io"
 baseurl: "http://trommel.github.io"
 
 markdown: rdiscount
-permalink: :month/:year/:title.html
+permalink: :year/:month/:title.html
 pygments: true
 
 # Google Analytics
