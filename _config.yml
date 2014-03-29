@@ -4,7 +4,7 @@ description: "i like cute girls & code"
 author: "Josh Trommel"
 
 url: "http://trommel.github.io"
-baseurl: ""
+baseurl: "http://trommel.github.io"
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
