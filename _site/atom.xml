@@ -1,327 +1,869 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>josh trommel</title>
+  <title>Josh Trommel</title>
   <id>http://trommel.github.io</id>
   <link href="http://trommel.github.io" />
   <link href="http://trommel.github.io/atom.xml" rel="self" />
-  <updated>2014-03-29T01:22:53-07:00</updated>
+  <updated>2014-05-14T19:50:32-07:00</updated>
   <rights>Copyright 2014, Josh Trommel</rights>
   <author>
     <name>Josh Trommel</name>
   </author>
   
     <entry>
-      <title>Welcome to Hikari for Jekyll!</title>
-      <link href="http://trommel.github.io/2014/01/welcome-to-jekyll.html" />
-      <summary type="html">&lt;p&gt;Welcome to &lt;em&gt;Hikari&lt;/em&gt;, a responsive, fluid and minimalist Jekyll theme for developers. As a web designer keen on learning how to develop my own stuff, reading developers&#39; blog has always been the way to learn from the best. So I thought it was time to give back!&lt;/p&gt;
+      <title>May 14, 2014</title>
+      <link href="http://trommel.github.io/2014/05/May-14%2C-2014.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Hey.&lt;/strong&gt; The only reason I&#39;m doing a blog post today is because &lt;a href=&quot;https://twitter.com/Sophia_Anne99&quot;&gt;Sophia&lt;/a&gt; said she likes my blog posts. If it weren&#39;t for her, I&#39;d probably be sleeping (or probably on &lt;a href=&quot;http://imgur.com/&quot;&gt;Imgur&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Hikari&lt;/em&gt; is an open-source Jekyll theme packed with everything you need to get started and share your best learnings with the community.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alright&lt;/strong&gt;, so &lt;a href=&quot;http://blog.imjosh.me/april-30-2014&quot;&gt;last blog post&lt;/a&gt; basically reviewed the holiday &lt;em&gt;way&lt;/em&gt; back in March, so that&#39;s pretty crazy. I&#39;m getting caught up in the past, because, after all, the past is a cool place. Well, that&#39;s depending how far you go back. Like, I wouldn&#39;t want to be alive for the Black Plague or The Holocaust or anything.&lt;/p&gt;
 
-&lt;p&gt;Of course, you don&#39;t need to be a developer to use &lt;em&gt;Hikari&lt;/em&gt;! Although, I wouldn&#39;t recommend it to anyone who&#39;s not willing to dive more than 5 minutes into my (sometimes) messy front-end code!&lt;/p&gt;
+&lt;p&gt;I just realized my blog is now going to be indexed by the word &quot;holocaust&quot;. &lt;em&gt;Fantastic.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll and pygments can easily help you to display your best snippets. I slightly styled them, and this is how it looks:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anyways,&lt;/strong&gt; I&#39;m listening to &lt;a href=&quot;https://www.youtube.com/watch?v=I_e49phsuRQ&quot;&gt;Further On Down the Road&lt;/a&gt; (the live version of the song is all I could find. Sorry), and coding a web crawler for &lt;a href=&quot;https://github.com/LastHack/lasthack-crawler&quot;&gt;LastHack&lt;/a&gt;, a project I haven&#39;t gone over in a blog post yet. I&#39;m not sure if anyone who reads this post will find any interest in LastHack, so I&#39;ll keep the description simple. &lt;em&gt;It&#39;s a script that runs in the background, finding &lt;a href=&quot;http://en.wikipedia.org/wiki/Open_source&quot;&gt;open-sourced&lt;/a&gt; projects, which you can use to improve your own code in various ways.&lt;/em&gt; If any of you have any use for that, go check it out. It&#39;s a cool idea (&lt;a href=&quot;https://twitter.com/thetoxicarcade&quot;&gt;Cameron&lt;/a&gt; thought of it- I&#39;m just helping him out).&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;header&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Hello World!&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/header&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Today was a pretty good day.&lt;/strong&gt; I woke up and ate Nutella toast because that&#39;s literally the best food in the world. I don&#39;t care if it&#39;s a &quot;white girl stereotype&quot;. Obviously white girls have a good taste in food. I went to school because that&#39;s what kids do.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;My first class was Video Production&lt;/strong&gt; and it was fairly exciting. It could&#39;ve been better, it could&#39;ve been worse. We were assigned our last project of the year. It&#39;s a pretty flexible project because we get to choose our own groups and the genre of the film, which is nice. I chose to work with Sami and Justin, and Alexis was put in our group because she didn&#39;t end up choosing anyone. In the end, it&#39;s a good group and I can work with them to make a (hopefully) good movie.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;I had Band next,&lt;/strong&gt; which was also pretty fun. We played music.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;I had double block of English,&lt;/strong&gt; which is normally not a great thing, but in the end we had absolutely no work assigned. We watched an hour long movie about advertisement.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;p&gt;&lt;strong&gt;At Lunch,&lt;/strong&gt; I went with Sami to the courtyard and showed him and his group of friends a comedy Sami and I had been part of / made for Video Production.&lt;/p&gt;
 
-&lt;span class=&quot;nt&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;h1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;3em&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Georgia&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;700&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;For the second block of English,&lt;/strong&gt; we discussed our thoughts and opinions on the advertisement movie for an hour. &lt;em&gt;Damn, son. Exciting.&lt;/em&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Last block was Gym,&lt;/strong&gt; and we played Hockey. Half the class took everything too intensely and tried to injure everyone for the puck, and the other half took it as it is; Grade 9 gym class hockey.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Today was Tutorial Wednesday,&lt;/strong&gt; so school dismissal was an hour early. I showed some more people the video (the one I mentioned at Lunch) in the Video room. Then I walked with Sophia, Adam, Jamie and Ford to Camy&#39;s, where Sophia met Parim, the awesome Pizza Guy. I said bye to Sophia and Ford, and sprinted up to where Adam and Jamie were headed; Ed&#39;s Market. When I caught up to Jamie and Adam, Jamie told us some jokes regarding &lt;a href=&quot;https://www.youtube.com/watch?v=TCvMB51i7JM&quot;&gt;Mr. Turi playing in his band&lt;/a&gt;. Adam bought me a Screamer (a slushee with soft serve ice cream- it&#39;s absolutely delicious), and then we walked home.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;When I got home,&lt;/strong&gt; I spent about half an hour watching YouTube videos, and another hour learning Ruby on &lt;a href=&quot;http://teamtreehouse.com&quot;&gt;Treehouse&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ready&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;header&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;    
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now I&#39;m listening to &lt;a href=&quot;https://www.youtube.com/watch?v=I_e49phsuRQ&quot;&gt;Further On Down the Road&lt;/a&gt; (the live version of the song is all I could find. Sorry), and coding a web crawler for &lt;a href=&quot;https://github.com/LastHack/lasthack-crawler&quot;&gt;LastHack&lt;/a&gt;, a project I haven&#39;t gone over in a blog post yet.&lt;/p&gt;
 
-
-&lt;p&gt;Note that so far, only HTML, CSS and Javascript are styled out of the box. But everything&#39;s ready for you to start styling your favorites languages: Python, Ruby, PHP and &lt;a href=&quot;http://rubygems.org/gems/pygments.rb&quot;&gt;many more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll.&lt;/p&gt;
-
-&lt;p&gt;More on &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;whoa that was cool&lt;br&gt;
+i looped the entire story&lt;br&gt;
+that&#39;s crazy right&lt;br&gt;&lt;br&gt;
+aha ok cool&lt;br&gt;
+thanks for reading my blog post for today&lt;br&gt;
+bye guys&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/welcome-to-jekyll.html</id>
-      <updated>2014-01-28T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/05/May-14%2C-2014.html</id>
+      <updated>2014-05-14T19:26:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
     </entry>
   
     <entry>
-      <title>Styling guide for Hikari: best practices</title>
-      <link href="http://trommel.github.io/2014/01/hikari-styling-guide.html" />
-      <summary type="html">&lt;p&gt;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness.&lt;/p&gt;
+      <title>April 30, 2014</title>
+      <link href="http://trommel.github.io/2014/04/April-30%2C-2014.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Holy shit, it&#39;s been over a month since I&#39;ve last wrote in here.&lt;/strong&gt; Alright, let&#39;s get to talking.&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;Good design is as little design as possible, said Dieter. Use quotations very carefully; especially if you don&#39;t understand them.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Alright, so since I last wrote, lots of things have happened.&lt;/strong&gt; I didn&#39;t really go over what happened on vacation all the way back in March, so I&#39;ll briefly go over that.&lt;/p&gt;
 
-&lt;p&gt;No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Over Spring Break,&lt;/strong&gt; the family jumped in a car and hauled ass down in a minivan to Seattle. Vancouver to Seattle is a long drive. Four hours or something, I don&#39;t remember. Then we hopped on a plane, which was actually pretty cool. We were with Virgin Airlines, and their style of &quot;professionalism&quot; differs quite a lot from generic airlines. It was a pretty good flight. I did stuff on my laptop- mostly making an app based on one of my friends, &lt;a href=&quot;https://twitter.com/Braeden_Mayer&quot;&gt;Braeden&lt;/a&gt;, called Braeviation (I forget how to spell it.) The app was influenced by planes because Braeden has a weird addiction to planes. I don&#39;t know, ask him.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Bullet points are so fancy&lt;/li&gt;
-&lt;li&gt;Easy to read, they make you look like a pro&lt;/li&gt;
-&lt;li&gt;Even when completely random&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;When we got off the plane,&lt;/strong&gt; I saw a guy with a &lt;a href=&quot;https://twitter.com/wordpressdotcom&quot;&gt;WordPress&lt;/a&gt; shirt, so I mentioned it to my dad. He went and asked the guy if he worked at WordPress, to which the guy apparently replied with &quot;yeah&quot;. He then found us later before we got on our bus and gave me some free WordPress stickers, saying he &quot;heard I was a WordPress fan&quot;. Cool guy, and it was cool to meet a WordPress dev / employee. I think I shook his hand before we left.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;We arrived at our destination, which, by the way, is a cruise down to Mexico,&lt;/strong&gt; at about noon. But instead, we went and checked into a hotel, because the boarding for the cruise was the next day. While we were at the hotel, I accidentally uninstalled Ruby. I forgot to reinstall it.&lt;/p&gt;
 
-&lt;p&gt;In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We boarded our cruise the next morning at some ridiculous time like 8 or something.&lt;/strong&gt; I was tired. I&#39;m tired now. I&#39;m almost always tired. &lt;em&gt;C&#39;est la vie.&lt;/em&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Ooh, and with numbers, it&#39;s even fancier&lt;/li&gt;
-&lt;li&gt;It&#39;s like 1, 2, 3, did you see?&lt;/li&gt;
-&lt;li&gt;Crazy stuff all around us; scary&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;On the ship we god our rooms and stuff.&lt;/strong&gt; We were assigned our own butler which was cool. His name was &lt;em&gt;Efrin&lt;/em&gt;, so naturally we started calling him &lt;em&gt;Zac Efrin&lt;/em&gt;. Good times. There was an ice cream machine on the cruise, and almost all food on deck is free, so I had a lot of ice cream. We were on the boat for one week and I must have had 47 ice creams.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;I played a lot of Guitar Hero in the arcade on the ship.&lt;/strong&gt; I think I spent at least $20 on that one machine. The cruise didn&#39;t have internet (well it did, but it costed $100 for every 75 minutes on the internet, which is ridiculous), so we didn&#39;t use it. I spent a lot of time programming random &quot;projects&quot;.&lt;/p&gt;
 
-&lt;p&gt;There&#39;s nothing like a good block of code! Especially when picked randomly out of Github (&lt;a href=&quot;https://github.com/jacobrask/styledocco/blob/master/styledocco.js&quot;&gt;styledocco.js&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We got off and explored Mexico on the third, fourth and fifth day.&lt;/strong&gt; Mexico is cool, but I prefer Canada. Not going to go into deep detail of Mexico because I don&#39;t feel like it, but the food there was extravagant.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;separate&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;css&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;css&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;\n&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;blocks&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[];&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;p&gt;&lt;strong&gt;On the way home, we were told there was a surprise Disneyland visit booked,&lt;/strong&gt; so that was cool. I finally got internet at the hotel, so I pushed all my shitty code to GitHub. Disneyland was pretty awesome, and they had some new cool rides we went on, as well as the entire Cars town they had built. We stayed in Disneyland for 3 days before we got back on a plane and headed home.&lt;/p&gt;
 
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;single&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;formatDocs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;p&gt;&lt;strong&gt;Now we&#39;re all caught up.&lt;/strong&gt; Cool. But now I don&#39;t have time or enough energy to write anything about recently, so I&#39;ll do that tomorrow.&lt;/p&gt;
 
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;multistart&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;formatDocs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;multiend&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;code&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;checkType&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;multiend&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;formatCode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;lines&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;blocks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;docs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;blocks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;&lt;img src=&quot;http://trommel.github.io/assets/img/img2.jpg&quot;&gt;&lt;/p&gt;
-
-&lt;h1&gt;Heading 1&lt;/h1&gt;
-
-&lt;p&gt;Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.&lt;/p&gt;
-
-&lt;h2&gt;Heading 2&lt;/h2&gt;
-
-&lt;p&gt;But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?&lt;/p&gt;
-
-&lt;h3&gt;Heading 3&lt;/h3&gt;
-
-&lt;p&gt;In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.&lt;/p&gt;
-
-&lt;h4&gt;Heading 4&lt;/h4&gt;
-
-&lt;p&gt;But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Goodnight.&lt;/strong&gt;&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/hikari-styling-guide.html</id>
-      <updated>2014-01-27T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/04/April-30%2C-2014.html</id>
+      <updated>2014-04-30T23:30:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
     </entry>
   
     <entry>
-      <title>Moving to Tokyo, yeeha!</title>
-      <link href="http://trommel.github.io/2014/01/moving-to-tokyo.html" />
-      <summary type="html">&lt;p&gt;&lt;img src=&quot;http://trommel.github.io/assets/img/img1.jpg&quot;&gt;&lt;/p&gt;
+      <title>March 28, 2014</title>
+      <link href="http://trommel.github.io/2014/03/March-28%2C-2014.html" />
+      <summary type="html">&lt;p&gt;I haven&#39;t written in a while, and, since I just came back from vacation, I thought  now would be a perfect time to start writing about everything that happened during the holiday.&lt;/p&gt;
 
-&lt;p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.&lt;/p&gt;
+&lt;p&gt;But I don&#39;t want to.&lt;/p&gt;
 
-&lt;p&gt;He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.&lt;/p&gt;
-
-&lt;p&gt;The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &quot;What&#39;s happened to me?&lt;/p&gt;
-
-&lt;p&gt;It wasn&#39;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.&lt;/p&gt;
-
-&lt;p&gt;A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.&lt;/p&gt;
-
-&lt;p&gt;It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.&lt;/p&gt;
-
-&lt;p&gt;Drops of rain could be heard hitting the pane, which made him feel quite sad.&lt;/p&gt;
-
-&lt;p&gt;&quot;How about if I sleep a little bit longer and forget all this nonsense&quot;, he thought, but that was something he was unable to do because he was used to sleeping on his right, and in his present state couldn&#39;t get into that position. However hard he threw himself onto his right, he always rolled back to where he was.&lt;/p&gt;
-
-&lt;p&gt;He must have tried it a hundred times, shut his eyes so that he wouldn&#39;t have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before. &quot;Oh, God&quot;, he thought, &quot;what a strenuous career it is that I&#39;ve chosen!&lt;/p&gt;
-
-&lt;p&gt;Travelling day in and day out. Doing business like this takes much more effort than doing your own business at home, and on top of that there&#39;s the curse of travelling, worries about making train connections, bad and irregular food, contact with different people all the time so that you can never get to know anyone or become friendly with them. It can all go to Hell!&quot;.&lt;/p&gt;
+&lt;p&gt;Good day.&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/moving-to-tokyo.html</id>
-      <updated>2014-01-22T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/03/March-28%2C-2014.html</id>
+      <updated>2014-03-28T20:20:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
     </entry>
   
     <entry>
-      <title>A week-end in the desert (shawarmas and belly dancers)</title>
-      <link href="http://trommel.github.io/2014/01/weekend-in-the-desert.html" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
+      <title>March 16, 2014</title>
+      <link href="http://trommel.github.io/2014/03/March-16%2C-2014.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;I&#39;m trying to think of how many things have happened since I last wrote a post.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lately I&#39;ve been learning JavaScript, which is fun (and painful).&lt;/strong&gt; Using CoffeeScript has a pre-compiler makes it a lot easier though, as well as a lot more fun. I&#39;m writing &lt;a href=&quot;http://github.com/trommel/pass.js&quot;&gt;pass.js&lt;/a&gt;, which is a password parser- which is essentially pointless, right now, anyways. With JavaScript / CoffeeScript, I&#39;ve been coding a couple scripts based on things that are completely irrelevant to modern programming. They&#39;re pointless, but they&#39;re fun to make. I made a calculator based off my math teacher, Mr. Koo, appropriately titled &quot;&lt;a href=&quot;http://github.com/trommel/calkoolator&quot;&gt;Calkoolator&lt;/a&gt;&quot;. I also made an even stupider script called &lt;a href=&quot;http://github.com/istx25/yogastar&quot;&gt;YogaStar&lt;/a&gt;, which &quot;tracks how many girls with yoga pants you&#39;ve seen today&quot;. YogaStar might not still be on GitHub by the time you&#39;re reading this because I gave the repo to my friend, Douglas, and he might have deleted the repo.&lt;/p&gt;
 
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It&#39;s also Pi Day, so that&#39;s cool.&lt;/strong&gt; &lt;em&gt;3.14159265359.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
-
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream.&lt;/p&gt;
-
-&lt;p&gt;As I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!&lt;/p&gt;
-
-&lt;p&gt;O my friend -- but it is too much for my strength -- I sink under the weight of the splendour of these visions!&lt;/p&gt;
-
-&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I can&#39;t think of a lot to write about today, but I&#39;m going on holidays tomorrow,&lt;/strong&gt;  which also means Spring Break, so I&#39;m psyched. I&#39;ll update more then.&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/weekend-in-the-desert.html</id>
-      <updated>2014-01-19T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/03/March-16%2C-2014.html</id>
+      <updated>2014-03-16T16:06:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
     </entry>
   
     <entry>
-      <title>So much to do, so little time</title>
-      <link href="http://trommel.github.io/2014/01/so-much-to-do-so-little-time.html" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
+      <title>February 23, 2014</title>
+      <link href="http://trommel.github.io/2014/02/February-23%2C-2014.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Today&lt;/strong&gt; I read &lt;a href=&quot;http://byjohnbrandon.com/why-blog&quot;&gt;an article I found interesting&lt;/a&gt;, written by &lt;a href=&quot;http://byjohnbrandon.com&quot;&gt;John Brandon&lt;/a&gt;. In the article, John talks about why he blogs, what it means to him, why he likes it, this, that and the other thing. He also says things that made me laugh at 12:27 AM.&lt;/p&gt;
 
-&lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&quot;Blogs were invented in the mid 1800s by really bored Indonesian monks. This was before Blogger and Typepad, so they had to do all of the HTML coding by hand.&quot;&lt;/p&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I don&#39;t know why I chose today to blog.&lt;/strong&gt; I didn&#39;t have anything prepared, but reading that article got me thinking about why &lt;em&gt;I&lt;/em&gt; blog. Thinking over it, I believe it&#39;s mostly because I want a permanent capsule of things I&#39;ve thought about over the past however long.&lt;/p&gt;
 
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When I was six years old,&lt;/strong&gt; my grandpa bought me a &lt;em&gt;SpongeBob SquarePants&lt;/em&gt; journal, which I wrote in until it was filled from cover to cover. Doing so took me about three years. I wrote in it every time I had a thought in my head that I thought lasted longer than normal. If I had a thought that stuck to my brain and wouldn&#39;t leave I wrote it down. I came to love the book because quite often I would write something down seriously and come back to read it years later, realizing how childish the topic was. I could laugh at myself, and it entertained me.&lt;/p&gt;
 
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A couple months after I had run out of space in my old journal&lt;/strong&gt; I received another one for my birthday (this time it was &lt;em&gt;Harry Potter&lt;/em&gt; themed), and continued writing down my thoughts in it. I&#39;m currently reading them over, and millions of memories are flying back into my mind. These journals contained every thought that went through my head throughout elementary school. Even recently, before I turned all &quot;eco-friendly&quot; and started blogging, I&#39;ve found some entries from grade eight.&lt;/p&gt;
 
-&lt;p&gt;As I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Once I had filled out the &lt;em&gt;Harry Potter&lt;/em&gt; journal,&lt;/strong&gt; I went out and bought another one. I still haven&#39;t filled up this one, and I probably never will.&lt;/p&gt;
 
-&lt;p&gt;O my friend -- but it is too much for my strength -- I sink under the weight of the splendour of these visions!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My point of this all is that blogging is incredible,&lt;/strong&gt; and that&#39;s why I do it. It&#39;s a way to vent to myself in the future by expressing what I think in the now. It&#39;s a time machine back to the nostalgia I feel every day when I think about how fun it was being a child- not to say that I&#39;m not still a child, although I have better memories from younger years.&lt;/p&gt;
 
-&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Blogging is &lt;em&gt;me&lt;/em&gt; writing what&#39;s &lt;em&gt;currently&lt;/em&gt; going on in my mind about the &lt;em&gt;past&lt;/em&gt; that I&#39;ll read in the &lt;em&gt;future&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/so-much-to-do-so-little-time.html</id>
-      <updated>2014-01-10T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/02/February-23%2C-2014.html</id>
+      <updated>2014-02-23T00:27:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
     </entry>
   
     <entry>
-      <title>Setting up Jekyll on Github Pages (is easier than you think)</title>
-      <link href="http://trommel.github.io/2014/01/setting-up-jekyll-on-github-pages.html" />
-      <summary type="html">&lt;p&gt;You&#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+      <title>February 16, 2014</title>
+      <link href="http://trommel.github.io/2014/02/February-16%2C-2014.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Hey guys, It&#39;s been a while.&lt;/strong&gt; Like, almost a month. Um, I&#39;ve been busy, so let me go over the things that&#39;ve happened in the past month in code.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;relationship = [&quot;Josh&quot;, &quot;Mercedez&quot;]; break;
+newProject = &quot;nuvel&quot;;
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Heh, code jokes.&lt;/strong&gt; Anyways, Mercedez and I broke up and I started working on a new project with Lakota, as well as &lt;a href=&quot;http://twitter.com/thetoxicarcade&quot;&gt;Cameron&lt;/a&gt;, a new friend. But really, almost nothing has happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I also started getting more into working,&lt;/strong&gt; which isn&#39;t a correct English sentence. I&#39;ve started caring more about grades because I don&#39;t want to become a heroin addict and end up on the streets after getting C&#39;s because that happens to a ton of people obviously. Even in the month that I&#39;ve been gone I haven&#39;t been involved with much that significantly interests me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I was invited to senior jazz band at school,&lt;/strong&gt; which is an honour. I accepted but, like I expected, I&#39;m pretty far behind the level they&#39;re at, so more practicing for me. I now have to wake up two times a week at 5:30 to get to jazz on time, but I&#39;m not complaining because I&#39;ll get extra credits.&lt;/p&gt;
+
+&lt;p&gt;I&#39;ve been playing a ton (fifty hours) of &lt;a href=&quot;http://steamcommunity.com/app/252490&quot;&gt;Rust&lt;/a&gt;, and that&#39;s just over the past three weeks or so. No idea how I juggle jazz band, school / homework, projects with Lakota, and hours upon hours of Rust. Wait, that sounded egotistical. &lt;em&gt;I don&#39;t juggle it, I do my best.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And sometimes I don&#39;t have enough time to even do that.&lt;/strong&gt; &lt;em&gt;But that&#39;s just an excuse for excellent work or whatever.&lt;/em&gt;&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/setting-up-jekyll-on-github-pages.html</id>
-      <updated>2014-01-08T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/02/February-16%2C-2014.html</id>
+      <updated>2014-02-16T20:21:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
     </entry>
   
     <entry>
-      <title>How Backbone.js changed my life</title>
-      <link href="http://trommel.github.io/2014/01/how-backbone-changed-my-life.html" />
-      <summary type="html">&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
+      <title>January 17, 2014</title>
+      <link href="http://trommel.github.io/2014/01/January-17%2C-2014.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Where do I start.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Actually, where do I start?&lt;/strong&gt; Right now I&#39;m listening to &lt;a href=&quot;https://www.youtube.com/watch?v=knU9gRUWCno&quot;&gt;this song&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.youtube.com/watch?v=XLaFLztnL84&quot;&gt;this song&lt;/a&gt; over and over again. They&#39;re both stuck in my brain. I listened to the second one (Holland, 1945, which is a song about Anne Frank and essentially her story)  on repeat through Socials class. Just thought I&#39;d let you all know that.&lt;/p&gt;
 
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Today was a long day.&lt;/strong&gt; It was also an unrealistically short day, in a number of ways. I had Science this morning, and we didn&#39;t do much. Mr. Ng continued to be awesome throughout class, and he still stands on the top of my &quot;favourite teachers&quot; list, right next to Mr. Turi, Mr. French, and all the other greats. He made jokes through the entire class, and he got me through an hour of the day.&lt;/p&gt;
 
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I had Foods class next,&lt;/strong&gt; which I go to because of the food. All of the recipes we make are incredibly simple, yet I still manage to fuck most of them up. Today we made cinnamon rolls, and I accidentally added the brown sugar when I wasn&#39;t supposed to, but everything turned out alright in the end.&lt;/p&gt;
 
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on the way.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I had Math class afterwards,&lt;/strong&gt; which was boring as normal. Plotting obvious data on line graphs should be behind us in curriculum, but go with the flow, I guess. Speaking up is redundant because a 14 year old&#39;s opinion is worth shit to most people.&lt;/p&gt;
 
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Double block of Math was shitty,&lt;/strong&gt; and I was late to class after Lunch because I had to finish work for Science. I dealt with that and waited for Math class to finish up.&lt;/p&gt;
 
-&lt;p&gt;Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Socials was alright.&lt;/strong&gt; We had a substitute teacher today, so Mr. Allen wasn&#39;t up at the front giving his famous, legendary Prezi presentations for note taking. The sub gave us a relatively large sheet with questions concerning Napoleon, the French Revolution, and everything that surrounded it. Like I said, I listened to &quot;Holland, 1945&quot; the entire class.&lt;/p&gt;
 
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word &quot;and&quot; and the Little Blind Text should turn around and return to its own, safe country.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again and again. And if she hasn’t been rewritten, then they are still using her.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reading all of this back to myself makes me realize how monotonous my average day is.&lt;/strong&gt; I go over this almost every time I write a blog post, with an occasional addition of something mildly exciting, which actually doesn&#39;t happen as much as you might think it happens. Surprising enough, a Grade 9&#39;s life is typically pretty dull, and unless you add something into it to change that dullness, it&#39;s going to stay that way.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&quot;Things in motion tend to stay in motion or whatever&quot; &lt;br&gt;
+- &lt;em&gt;Something Isaac Newton probably said once or twice&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Anyways,&lt;/strong&gt; I&#39;ve been thinking a lot about how I can make my life a little more interesting and, to my appeal, it&#39;s gotten a bit better. Not based off anything I&#39;ve started to do, simply by sheer luck. I&#39;ve started to involve myself more in programming lately, which might have something to do with it. I&#39;ve been tweeting less- I&#39;ve tweeted 200 times today, which is probably referred to as an &lt;em&gt;&#39;addiction&#39;&lt;/em&gt;, but it&#39;s not as much as normal- which might also have something to do with my random invoking to do something other than play with computers my entire life.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reading this over, it doesn&#39;t make a lot of sense, which happens quite often.&lt;/strong&gt; Stick through it, or don&#39;t. &lt;em&gt;I can&#39;t tell you what to do.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I want to do something thoughtful,&lt;/strong&gt; &lt;em&gt;and I don&#39;t mean give someone a gift&lt;/em&gt;. I want to do something that requires thought. A plan. I went to see &lt;a href=&quot;http://www.imdb.com/title/tt0359950/&quot;&gt;The Secret Life of Walter Mitty&lt;/a&gt; two weeks ago, and it was incredible. I guess it inspired me to do something more with my life. I want to fly to Greenland, and Iceland, and climb a mountain and play soccer with some nice native American&#39;s.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But for now I&#39;m in Grade 9,&lt;/strong&gt; and, as anticatalyst (I hope I&#39;m using that word properly, my fallback word is un-motivational) as it is,  I have to finish that before I can start climbing mountains.&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/how-backbone-changed-my-life.html</id>
-      <updated>2014-01-06T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/01/January-17%2C-2014.html</id>
+      <updated>2014-01-17T19:00:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
     </entry>
   
     <entry>
-      <title>Perception of design, a developer point of view</title>
-      <link href="http://trommel.github.io/2014/01/perception-of-design.html" />
-      <summary type="html">&lt;p&gt;His boss would certainly come round with the doctor from the medical insurance company, accuse his parents of having a lazy son, and accept the doctor&#39;s recommendation not to make any claim as the doctor believed that no-one was ever ill but that many were workshy.&lt;/p&gt;
+      <title>January 14, 2014</title>
+      <link href="http://trommel.github.io/2014/01/January-14%2C-2014.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Life has been interesting lately.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;And what&#39;s more, would he have been entirely wrong in this case? Gregor did in fact, apart from excessive sleepiness after sleeping for so long, feel completely well and even felt much hungrier than usual.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I don&#39;t mean anything out of the ordinary has happened.&lt;/strong&gt; It hasn&#39;t. It never does. The day something in particularly interesting happens I can promise you I&#39;ll be out experiencing it. Today I fucked up pretty bad, so I guess if you tried really hard you could count that as interesting. On the last block of the day, I was in Video Production. We&#39;re filming our film noir films, and the film we&#39;re doing is based off of &lt;a href=&quot;http://imjosh.me/backstab&quot;&gt;my script&lt;/a&gt;, which is pretty cool. Anyways, while we were setting up I attached the camera to the tripod and thought it was screwed on tight enough. It wasn&#39;t. I picked up the tripod to move it and the camera fell off. The filter (essentially the glass on the lens) was smashed. Fortunately, the repair will only cost about $30, which Mr. French said he would replace. I forgot to give him a hug for that, but I&#39;ll remember next time I see him. Mr. French is definitely up there on the list of great teachers you remember when you&#39;re 80.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I had something else relatively interesting occur today,&lt;/strong&gt; so I guess today wasn&#39;t as ordinary as it seems. While I was in my double block; Band, Mr. Turi asked me to come to his office / hangout room. Obeying, I slowly walked in it&#39;s direction, arriving and waiting for him to show. When he arrived he immediately said &lt;em&gt;&quot;you&#39;re not in trouble&quot;&lt;/em&gt;, which are the 4 best words a teacher can say. He told me that I was invited to attend senior Jazz Band, which is exactly what it sounds like. Seniors are grades 10 - 12, so I&#39;d be in with people a couple years above me. He told me both of his bassists had unexpectedly dropped out, which was &quot;uncool&quot;. He said that if I were to accept I wouldn&#39;t have to attend normal Jazz Band because of how time consuming it would be. I told him I was happy to attend senior Jazz.&lt;/p&gt;
 
-&lt;p&gt;The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &quot;What&#39;s happened to me? &quot; he thought. It wasn&#39;t a dream.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I&#39;m not going to go over the entire day,&lt;/strong&gt; because, aside from those two things, my day really wasn&#39;t that interesting. After school, Tyler came over and we essentially did what every 14 year old guy does when they get home. Play video games. Speaking of video games, I hate the term &quot;game&quot;. I just wanted to get that out there. If anyone hears me use the term as a serious word, and not pointing awareness to it&#39;s intolerable usage, please dump bleach into my intestines. Thank you.&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;Conceptualising is hard because it requires to shut down our graphic imagination and stay focused on the big picture. Principles and data over layout and typeface.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Today was alright.&lt;/strong&gt; I miss people and other people and I&#39;m constantly sleep deprived because my alarm decides it&#39;s going to ring at the time I told it to. If I were Jerry Seinfeld I&#39;d make a joke about alarm clocks that only a few range of people actually understand, and then have an 80&#39;s bass riff play.&lt;/p&gt;
 
-&lt;p&gt;His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I have no idea why I even write a blog.&lt;/strong&gt; I guess it&#39;s a place to spread my emotions around like jam on toast (which tastes terrible, by the way), because I don&#39;t like talking to people about the way I feel. In my eyes, ranting to people is about the worst thing you can do, but like many terrible, failed scientists, I have no evidence or reason to back up that theory. It&#39;s just something I feel strongly against, so if I ever rant towards you I&#39;m either terribly emotional (which, might I add, doesn&#39;t happen often) or I trust you &lt;em&gt;a lot.&lt;/em&gt; If we go to the movies and you don&#39;t buy real butter for my popcorn you might lose that trust. Then again, I don&#39;t know why &lt;em&gt;you&#39;d&lt;/em&gt; be paying for &lt;em&gt;my&lt;/em&gt; popcorn. What the hell am I even talking about. This is psychotic. My brain is racing. I can&#39;t stop talking. I&#39;m listening to &lt;a href=&quot;http://www.youtube.com/watch?v=qUk4SI9utxw&quot;&gt;this song&lt;/a&gt; on repeat. It&#39;s a good song and it has cool lyrics. Thanks, Devin-Devon for showing me that cool song.&lt;/p&gt;
 
-&lt;p&gt;It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops of rain could be heard hitting the pane, which made him feel quite sad.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please don&#39;t judge me on today&#39;s blog, I have no idea what I&#39;m talking about today.&lt;/strong&gt; No moral lesson I, nor anybody surrounding me, learned. &lt;em&gt;I&#39;m deeply sorry.&lt;/em&gt; I&#39;m going to sleep. Sleep deprivation isn&#39;t funny, it&#39;s sad.&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/perception-of-design.html</id>
-      <updated>2014-01-05T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/01/January-14%2C-2014.html</id>
+      <updated>2014-01-14T20:54:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
     </entry>
   
     <entry>
-      <title>Going back on 2013; quite an incredible year</title>
-      <link href="http://trommel.github.io/2014/01/going-back-2013.html" />
-      <summary type="html">&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.&lt;/p&gt;
+      <title>January 5, 2014</title>
+      <link href="http://trommel.github.io/2014/01/January5%2C-2014.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;I&#39;m going to start this post by partially apologizing.&lt;/strong&gt; What I&#39;m going to talk about mainly is the New Year, which occurred 5 days ago. I was late, and I should&#39;ve written about it then, but I&#39;ve had other things on my mind, excuses, excuses.&lt;/p&gt;
 
-&lt;p&gt;I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On the night of December 31st,&lt;/strong&gt; I began to write a blog post about how people react towards the New Year. I had written a paragraph before I stopped, realized now was not the time to write, and went to join the party a couple friends were having in celebration of the completion of yet another year. I later published the post as it was. I deleted it the next day after realizing a paragraph is a pointless thing to upload.&lt;/p&gt;
 
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Now, about the New Year.&lt;/strong&gt; People treat the New Year as a lot of different things, most people specifically use it as a &lt;em&gt;new leaf&lt;/em&gt;. People have bad habits, and most of the people with bad habits want to get rid of them. Instead of doing this on any day, they decide they&#39;re going to change their fixed attitude when? The end of the year. It&#39;s a new beginning to people, but it&#39;s setting them all up for failure.&lt;/p&gt;
 
-&lt;p&gt;I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;People put things off. A lot.&lt;/strong&gt; We don&#39;t like getting things done, that&#39;s just humans being humans. Yet, despite this fact, we loath in the great feeling of having had something completed. Nobody wants to exercise, but everybody wants the feeling you get &lt;em&gt;afterwards&lt;/em&gt;. Nobody wants to study, but everybody wants the intelligence obtained from it. I&#39;m not completely sure where I&#39;m going with this so pull through and keep trying to understand.&lt;/p&gt;
 
-&lt;p&gt;When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When you put things off you feel good.&lt;/strong&gt; Obviously these things all have repercussions. If your boss wants a paper finished by Friday, and you start Thursday night, you&#39;re going to have a great week, but a terrible Thursday. Now, you can make your own choices, so don&#39;t think I&#39;m telling you &lt;em&gt;not to do a specific thing.&lt;/em&gt; Taking advice from a 14 year old may not be a wise decision, but hey, at least you&#39;re reading this, so that gives me &lt;em&gt;some&lt;/em&gt; hope.&lt;/p&gt;
 
-&lt;p&gt;As I lie close to the earth, a thousand unknown plants are noticed by me: when I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains us, as it floats around us in an eternity of bliss; and then, my friend, when darkness overspreads my eyes, and heaven and earth seem to dwell in my soul and absorb its power, like the form of a beloved mistress, then I often think with longing, Oh, would I could describe these conceptions, could impress upon paper all that is living so full and warm within me, that it might be the mirror of my soul, as my soul is the mirror of the infinite God!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here&#39;s an analogy I just thought of:&lt;/strong&gt; &lt;em&gt;If you want to get into a cold pool, you jump in. If you slowly step in through the stairs it&#39;s going to be a long painfully executed plan.&lt;/em&gt; This relates to tasks or achievements for the new year. If you want something done, do it as soon as you can. If you want to learn a new food recipe, get in shape, learn a new language, become a better person, do it as soon as the idea strikes your mind. If you put it off until the end of the year you&#39;re going to have more pressure built up to finish or complete it. Don&#39;t put things off, I can&#39;t stress this enough because of how much homework I put off until the &lt;em&gt;very last minute.&lt;/em&gt; It&#39;s a terrible idea, so try your best to refrain from it. But again, like I said, who am I to tell you what to with your life? &lt;em&gt;Do whatever makes you, and your close ones, happy.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;O my friend -- but it is too much for my strength -- I sink under the weight of the splendour of these visions!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I think that&#39;s all I have to say.&lt;/strong&gt; Go ahead and follow what I&#39;ve said, or if you don&#39;t want to, don&#39;t. Except for the &quot;be a better person&quot; part. Everyone can do that.&lt;/p&gt;
 
-&lt;p&gt;A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.&lt;/p&gt;
-
-&lt;p&gt;I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.&lt;/p&gt;
+&lt;p&gt;--
+&lt;strong&gt;Josh&lt;/strong&gt;&lt;/p&gt;
 </summary>
-      <id>http://trommel.github.io/2014/01/going-back-2013.html</id>
-      <updated>2014-01-03T08:57:51-08:00</updated>
+      <id>http://trommel.github.io/2014/01/January5%2C-2014.html</id>
+      <updated>2014-01-05T18:44:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>December 29, 2013</title>
+      <link href="http://trommel.github.io/2013/12/December-29%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;In all honesty, I have no idea what I&#39;m going to write about.&lt;/strong&gt; This happens every time I start writing about my day (or week, or whatever), but usually I end up figuring it out. I reference this fact a lot, mostly because of how true it is. &lt;em&gt;I have no idea what I&#39;m doing.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I guess I&#39;ll write about a couple days, from December 25 up to now.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Christmas was 4 days ago.&lt;/strong&gt; It didn&#39;t go as expected, but that&#39;s not a negative thing. Christmas seems to get more and more different every year. Most of this is based of age. At 14, the whole &#39;magic&#39; of Christmas disappears. I don&#39;t mean that in a sense of  &quot;I&#39;m older, I&#39;m too good for Christmas&quot;, but more of: Once the entire Santa magic has vanished, Christmas doesn&#39;t seem so magical anymore. I might sound like a child because I&#39;m focusing on this as my topic; I realize that. I still enjoy Christmas more than any other holiday of the year because it&#39;s the one time where all of your loved ones, friends, family, you name it, get together in one place, eat an awesome meal and trade some presents. I received socks, shampoo, some posters for my blank wall, and a book all about the different items that signified The Beatles. I was also incredibly lucky to receive a Timex Watch and a Canon T3i. All the gifts I received were so thoughtful &lt;em&gt;(especially the socks)&lt;/em&gt;, so thank you to everyone who was kind enough to get me a present, I hope I&#39;m not forgetting anything. Christmas this year was amazing, thanks to family who came and visited. &lt;em&gt;You guys made it magical.&lt;/em&gt; I stayed up until 2 in the morning watching movies on Netflix. Great way to end Christmas Day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Boxing Day was 3 days ago.&lt;/strong&gt; It went partially the way I expected. I woke up at noon, due to the lack of sleep I&#39;d gotten from Christmas. I went upstairs, texted Mercedez &amp;amp; Phil and slowly ate Cheerios at the kitchen table. The plan for today was to hangout with Mercedez. I was tired as hell, and I didn&#39;t want to put on pants, in fact I barely did anything all day. I didn&#39;t really have a valid excuse other than the fact that I didn&#39;t want to hang out with anyone. &lt;em&gt;Sorry, Mercedez, for blowing off our plans on Boxing Day, I am a major douchebag.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;December 26 was 2 days ago,&lt;/strong&gt; and it was one of the best days of the week, if not the month, if not the year. There were bumps, but it was mainly one good thing after another. I woke up at noon again after a night of watching movies and headed upstairs where I texted Mercedez &amp;amp; Phil (I do this almost every morning). Phil was coming by Mercedez&#39; house to pick up his Christmas present (cookies), so he asked me if we wanted to hangout today. I told him that was ok, so when he arrived at Mercedez&#39; house I walked over as well and we all exchanged gifts. Mercedez gave me a little bag with 2 presents in them and told me to open them up later. I gave Phil a journal for the stories he writes, and Mercedez &lt;a href=&quot;http://en.wikipedia.org/wiki/Looking_for_Alaska&quot;&gt;Looking for Alaska&lt;/a&gt;, a book which I think somewhat &lt;em&gt;(if just a partially)&lt;/em&gt; describes our relationship. We then headed over to my house where we sat on the couch downstairs and talked. My brother had a hockey game, so everyone left. Phil, Mercedez and I went outside and walked down the street talking and figuring out what to do. We decided to go back to the house, sit on the porch and talk more, and that&#39;s what we did. We found a bowl full of squishy water balls (you don&#39;t know how hard it is to describe these things) and we started throwing them at each other.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I know blogs are supposed to be intelligent &amp;amp; meaningful, &amp;amp; you&#39;re supposed to learn something from all of it, but omit that. Forget it. We threw squishy water balls at each other&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We continued this until Phil decided to tell a really in-depth pornographic story,&lt;/strong&gt; which I&#39;m not going to get into. At that point Phil had to leave because he was visualizing the pornography in the story too realistically. Mercedez came and sat on my lap and we talked. The entire time I kept looking into her eyes and thinking how lucky I am to have her. After about an hour she went home so I went inside the house to talk to Phil, who was playing League of Legends on his new laptop. He brought his computer upstairs, and I went to check how &lt;a href=&quot;http://podbe.at&quot;&gt;Podbeat&lt;/a&gt; was doing with Lakota. Turns out he had stayed up all night on &lt;em&gt;his&lt;/em&gt; new laptop (everyone got a laptop for Christmas) coding Podbeat. He&#39;d practically finished it. He&#39;d coded the entire back-end of the site in less than a week, and it worked astoundingly. I was stoked, and put everything together from today I couldn&#39;t wipe the smile off my face. I fixed a couple issues with the site (a couple things turned invisible or black), and went over to watch Phil play some games on Steam. He went home 15 minutes later and I feel kind of bad for not spending some more time with him. &lt;em&gt;Sorry, Phil, for blowing off our plans on the 27th, I am a major douchebag.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;December 28th was yesterday.&lt;/strong&gt; I almost did nothing, and then I did something. I woke up at noon after watching Netflix all night (becoming a habit), and did my usual &#39;Text Mercedez &amp;amp; Phil while I eat cereal&#39; routine. I didn&#39;t even put on pants until Mercedez invited me over to her house at &lt;em&gt;(I think)&lt;/em&gt; 4. I put some pants on and walked over to her house. She invited me in and brought me to her room. Her friend Autumn was there and she said hi. I sat in the middle of the room on the floor. Mercedez was sitting in a chair on her new laptop &lt;em&gt;(if you&#39;re keeping track, that&#39;s 3 people with new laptops)&lt;/em&gt;, and Autumn was sitting on Mercedez&#39; bed. I took out my phone and put it on the ground where Autumn took it and started taking selfies. After about 15 minutes Autumn got a call from her dad telling her she had to come home, leaving Mercedez and I alone in her bedroom.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Calm down. Don&#39;t let your mind wander.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mercedez came and sat down on the floor with me,&lt;/strong&gt; and we talked. I kept trying to take pictures of her but she evaded them like always. We continued talking. I kept looking into her eyes. She was beautiful. She was cute, funny, crazy, just all around amazing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I don&#39;t know if it&#39;s weird to try sneaking in compliments towards people through blog posts, but I seem to do it a lot. I guess I write not only about what happens throughout the day, but also my experiences, and how I interpret the things that occur.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I kept staring at her.&lt;/strong&gt; She was smiling. She had a gorgeous smile. I moved over to lean against her bed and she moved with me. I put my arm around her and leaned my head back. I kept looking at her, feeling the urge to kiss her. My phone buzzed. My mom wanted me to come home because there was no supervision in her house. Feeling childish, I told Mercedez about it, then got up to leave. I put my shoes on and she walked me to the door. I kissed her goodnight and walked out, making sure to do &lt;a href=&quot;http://www.youtube.com/watch?v=TkVjkvaeFnQ&quot;&gt;the famous Breakfast Club fist pump&lt;/a&gt; on my way home. When I got home I lied on the couch, continued to talk to Mercedez and, of course, watch Netflix.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Today is December 29.&lt;/strong&gt; Almost nothing happened today besides talking to Mercedez and Phil (the routine) and writing this post. It&#39;s 9PM, so I don&#39;t think anything else will happen, but if it does I&#39;ll make sure to update this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shit, this post is really long.&lt;/strong&gt; I&#39;m going to go talk to Mercedez and watch some Netflix. &lt;strong&gt;Goodnight &amp;lt;3&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/12/December-29%2C-2013.html</id>
+      <updated>2013-12-29T20:29:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>December 21, 2013</title>
+      <link href="http://trommel.github.io/2013/12/December-21%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;There&#39;s only a couple days until Christmas,&lt;/strong&gt; and I haven&#39;t written a post in almost two weeks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Odd enough,&lt;/strong&gt; I don&#39;t have much to talk about. Not a lot has happened in past 10 days, so I don&#39;t have a lot to write about. But, like every time I write, I start thinking about different things to talk about, which is something I love about writing (how one word leads to another, and you end up writing more than you initially think of).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Currently,&lt;/strong&gt; I&#39;m talking to Mercedez, browsing Twitter and watching Disney Christmas Specials on TV with my brother and sister. The Madagascar Penguin Episode is playing, which is actually pretty awesome. I loved Madagascar when I was younger, and I love it still. It&#39;s one of my last great childhood memories (Technically I&#39;m still a child; I&#39;m referring to younger years from age 5 - 10). It&#39;s a great movie, and like always I&#39;m getting on a rant about things that are completely unimportant. The point is I love Madagascar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It seems I can&#39;t actually think of anything to write about right now.&lt;/strong&gt; Hopefully later I can come back and edit this to something accurate that&#39;s going on, if I can think of anything. I&#39;ll be sure to write as much as I can about Christmas this year, as it&#39;s a lot more exciting than right now. Last thing I mention is the fact that I want to start writing more interesting columns and posts about other things indifferent to my life. I wrote a couple on &lt;a href=&quot;http://medium.com&quot;&gt;Medium&lt;/a&gt;, but they&#39;ve since been removed as I was unhappy the way they turned out because I couldn&#39;t word anything properly (I couldn&#39;t focus during the current situation). Briefly put, one was a rant about the Internet, and the other about Social Networking. I might re-upload them some time if I have the time to correct the terrible English.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ciao.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/12/December-21%2C-2013.html</id>
+      <updated>2013-12-21T20:33:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>December 12, 2013</title>
+      <link href="http://trommel.github.io/2013/12/December-12%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Today was fantastic.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This morning&lt;/strong&gt; I woke up for Jazz Band. I don&#39;t like waking up early, but I got up, ate, showered, and was at the school before I normally wake up. Jazz Band went normal, as expected. Nothing too interesting happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My first block was Science,&lt;/strong&gt; and we had a test on cell division that I &lt;em&gt;didn&#39;t&lt;/em&gt; do so fantastic on. I got 50%, which is obviously just a pass. I love Science, but I&#39;m absolutely terrible at it no matter how much I study. Hopefully I can pull my grades up, I want a B at the least for most, if not all, of my subjects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My next block was cooking,&lt;/strong&gt; and it didn&#39;t go as well as last class, because I&#39;m not good with measuring. Not the math behind it, just the pouring. I make an absolute mess getting things together and I look like a complete idiot when I&#39;m finished. Last class, Jacob did the measuring, but this class he told me to, so I unwillingly went and &lt;em&gt;tried my best&lt;/em&gt;. I, of course, made a mess, and in the end our cookies were burnt and terrible. Sorry, Jacob.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I had Math for double block,&lt;/strong&gt; which turned out a lot better than expected. Mr. Koo was in an awesome mood today, and he gave the class some leftover candy he had, which he has for kids who do well on tests (as creepy as that sounds). After he gave us all mini chocolates, he put everyone&#39;s name in a hat and drew a name, which ended up being me, and gave me an entire chocolate bar, a normal size that you&#39;d buy at the store. At the end of class he even let us go on our phones, which he&#39;s never done before. I guess someone put him in a good mood, so that was pretty awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Last block was Socials,&lt;/strong&gt; which I don&#39;t always care for, but we&#39;re working on a simple project in the library so there&#39;s no worry. For the entire block I finished my assignment and ate Fishy Crackers with Brad (friend).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After school I headed to Video,&lt;/strong&gt; like I do almost every single day, and met Mercedez, Cameron and Tyler there. I pulled out my laptop and showed Phil some stuff in &lt;a href=&quot;http://www.garrysmod.com/&quot;&gt;Gary&#39;s Mod&lt;/a&gt;, and then went and watched Cameron and Mercedez edit the video they filmed yesterday, a &lt;a href=&quot;http://www.youtube.com/watch?v=LrUvu1mlWco&quot;&gt;We Can&#39;t Stop&lt;/a&gt; parody. It was actually pretty good, despite the numerous times Cameron twerked in the video.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;By the time we all headed home it was about 5.&lt;/strong&gt; Cameron got a ride home, so Mercedez, Phil and I walked home together. We didn&#39;t talk about a certain subject the entire way, just completely random topics, like normally. When we got to Phil&#39;s bus station we stopped and waited for the bus with him, and when it arrived Mercedez and I walked home together.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On the street walk home I got &lt;a href=&quot;https://pbs.twimg.com/media/BbVE4TACIAAiY-y.png&quot;&gt;this text&lt;/a&gt;,&lt;/strong&gt; so I got on the topic of things we&#39;ve said to people who&#39;ve texted us with the wrong numbers. She and I laughed the entire way home. It was raining and dark and, as dumb as it sounds for a guy to say, it was &lt;em&gt;cute as fuck.&lt;/em&gt; When we got to her house I stopped and hugged her goodbye. I said &quot;never let go&quot;, and that ended us on the topic of the Titanic movie.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;There we are, in the middle of the road,&lt;/strong&gt; hugging and talking about the Titanic, at 5 in the afternoon, and it&#39;s pouring rain. &lt;em&gt;Perfect&lt;/em&gt;. She started talking about Jack from the movie, and I mentioned the girl who let go. I couldn&#39;t remember her name so we went on that topic for a minute. I held her shoulders and stared her in the eyes. I couldn&#39;t think of the name, but it didn&#39;t really matter, I just really wanted to do one thing. &lt;em&gt;I leaned in and kissed her, and she kissed me back.&lt;/em&gt; It was really cute, and it only lasted a second, but I wouldn&#39;t trade it for the world. I said &quot;goodnight&quot;, again, like I always say at 5, for some reason. I went home, walked in, sat down on the couch and started playing &lt;a href=&quot;http://www.youtube.com/watch?v=R9Cyqxvlvew&quot;&gt;Flapper Girl&lt;/a&gt; on the guitar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My mom, brother and sister left the house,&lt;/strong&gt; so I&#39;m sitting here writing, talking to Mercedez, and partially playing the guitar. &lt;em&gt;Perfect Thursday.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;Edit: 5 minutes later.&lt;/strong&gt;
+I really hope my teachers / school staff aren&#39;t still on my case and reading everything I do on the internet because it&#39;d be really awkward if they read this.&lt;/p&gt;&lt;/blockquote&gt;
+</summary>
+      <id>http://trommel.github.io/2013/12/December-12%2C-2013.html</id>
+      <updated>2013-12-12T18:30:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>December 10, 2013</title>
+      <link href="http://trommel.github.io/2013/12/December-10%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Today has actually been a really good bad day.&lt;/strong&gt; This morning I woke up at 7:30 and got ready as quick as possible so I could walk with Mercedez to school. I didn&#39;t get ready quick enough, though, so we left at 8. We talked all the way to school about completely random topics, but it was pretty fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My first class was Socials,&lt;/strong&gt; and when I arrived at the class there was a message on the door telling me that everyone was in the library, so I headed there. When I got to the library I took a seat next to Brad (a friend) and looked over the project we&#39;d been assigned, which didn&#39;t look too complicated. I started on the project, and when the bell rung I headed off to my next class, Math.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When I walked into Math&lt;/strong&gt; Alex told me my new beanie had &quot;nice swag&quot;. We worked on some algebra for a while before hearing the bell ring, where at this point I headed to my first class of foods, which I was pretty excited about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The first block of foods in the double block was awesome.&lt;/strong&gt; We cooked pasta, which actually tasted pretty good after it was all done. At lunch, Tyler and I stayed in class and cleaned up the bowls / utensils. After we were finished I worked on the project for socials. The second block of foods wasn&#39;t as good because the cookies Jacob (my cooking partner and friend since grade 1) and I made ended up looking like garbage and tasting the same. Still a pretty fun class though, and I&#39;m enjoying it a lot more than Info Tech.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My last block was Science,&lt;/strong&gt; where we did a worksheet on cell replication and I finished my &#39;flipbook&#39; of notes on the same topic. The class went by pretty fast with Mr. Ng talking about things that kept our minds off the work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After school I had Jazz Band,&lt;/strong&gt; which was alright. I haven&#39;t been for a couple classes, so it was nice to be back. Nothing out of the ordinary happened, but it was a good rehearsal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Once Jazz Band was over&lt;/strong&gt; Mercedez, Cameron, Phil and I walked home together. We walked pretty slow, and when we got to the intersection between me and Mercedez&#39; house we stopped and talked for at least half-an-hour about &lt;em&gt;complete random nothingness&lt;/em&gt;. When I was hugging Mercedez goodbye, Cameron pushed my head into Mercedez and I half kissed her nose / upper lip, so that was pretty sexy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.giantbomb.com/uploads/scale_super/10/104460/2020225-1459250_creepy_ryan_super.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After Mercedez went home,&lt;/strong&gt; Cameron, Phil and I walked to Belmont where Phil went to catch his bus and Cameron to walk home. Phil missed the second buss today though, so he walked home with me and stood in my driveway for 20 minutes before his dad could shamefully come pick him up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I got home at 6,&lt;/strong&gt; and I&#39;ve been writing this since I arrived. Today was probably the best shitty day I&#39;ve had for a while. I think I needed that. &lt;strong&gt;&lt;em&gt;&amp;lt;3&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/12/December-10%2C-2013.html</id>
+      <updated>2013-12-10T18:39:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>December 9, 2013</title>
+      <link href="http://trommel.github.io/2013/12/December-09%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;There&#39;s 4 days until report cards.&lt;/strong&gt; Damn. Damn damn. Not good, not good.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Everything has gone alright with everything in life,&lt;/strong&gt; I guess. Nothing extremely disastrous has happened to me so I take that as an achievement.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On another note,&lt;/strong&gt; I&#39;ve changed almost everything I own to &lt;a href=&quot;http://www.colorhexa.com/900020&quot;&gt;burgundy&lt;/a&gt;, red, or something close. All the links on &lt;a href=&quot;http://imjosh.me&quot;&gt;my website&lt;/a&gt; are red now, and I went out and bought a burgundy beanie (toque?) and a burgundy (along with other colours) sweater. It&#39;s a sudden change from &lt;a href=&quot;http://www.colorhexa.com/3498db&quot;&gt;this particular shade of blue&lt;/a&gt;, but I think I like it. Apologies about going on a small rant about burgundy and my change to it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Like most people, I&#39;m looking forward to the holidays.&lt;/strong&gt; It&#39;s a nice break from school and time to spend time with family and friends while not having to put on pants, which is the ultimate win because pants are terrible &lt;em&gt;(pyjamas4lyfe)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I really haven&#39;t had anything too interesting happen to me lately,&lt;/strong&gt; despite the suspension happen so recently. Even though that seemed to cause a bump in the road everything is back to normal, &lt;em&gt;mostly&lt;/em&gt;. I&#39;ve made a few changes, mostly to making a &lt;a href=&quot;http://twitter.com/joshtrommel&quot;&gt;private twitter&lt;/a&gt; for personal friends so that I don&#39;t have to be so careful and superstitious about what I say. This doesn&#39;t mean that I&#39;m going to go start writing garbage on it, it&#39;s just a place I can write without being suspended over my (possibly awful) opinions. Hopefully I&#39;m not suspended for writing that as well. As nice as I try to be I want to get one point across that&#39;s been on my mind for a while - If you don&#39;t like something on the internet, leave it alone unless it&#39;s viciously negatively directly affecting you. That&#39;s all I have to say, I hope forever.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Although not a lot has happened to me recently,&lt;/strong&gt; I was able to start a &lt;a href=&quot;http://medium.com/@nulljosh&quot;&gt;Medium account&lt;/a&gt;, where I&#39;ve only posted &lt;a href=&quot;https://medium.com/p/e016c3cd42ff&quot;&gt;this story&lt;/a&gt; about the internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reading over this post,&lt;/strong&gt; it looks like I jumped around to different topics a ton. I need to make a &quot;do&#39;s and don&#39;ts&quot; for writing sometime. I guess that&#39;s all I can think of writing about. &lt;strong&gt;&lt;em&gt;Ciao.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/12/December-09%2C-2013.html</id>
+      <updated>2013-12-09T19:31:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>December 6, 2013</title>
+      <link href="http://trommel.github.io/2013/12/December-06%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Before you read this,&lt;/strong&gt; I suggest reading &lt;a href=&quot;http://joshuatrommel.com/december-2-2013&quot;&gt;my entire feud about how Monday went down&lt;/a&gt;. It&#39;s kind of important.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Anyways, today is my second day back at school after my suspension.&lt;/strong&gt; It&#39;s been alright, and I haven&#39;t been called back into the office about any of the problems that I caused, which I&#39;m happy about. I&#39;m just glad it&#39;s over, and I&#39;m going to be a lot more careful about what I post on the internet, because you never know who&#39;s reading it (or why, for that matter).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&#39;ve been switched out of Info Tech,&lt;/strong&gt; which I think is for the best. According to [my principle] I&#39;m in foods / cooking now. I&#39;ve been pretty excited about this since I was alerted of it, but today I found out I&#39;m &lt;em&gt;not&lt;/em&gt; in foods by the foods teacher herself. I went to ask [my principle] what had happened and if something had changed, but he was in a meeting, so now I&#39;m in the library, printing off homework and writing this.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Now that you&#39;re up to date-&lt;/strong&gt; It&#39;s been a long week. I don&#39;t actually have a lot to talk about because other than the suspension nothing has happened recently that&#39;s really had an impact on me. Maybe something should have, but maybe I&#39;ve been too tired to realize. &lt;em&gt;I guess my new goal is to get more sleep.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&#39;m going to print off some homework and probably head home now,&lt;/strong&gt; so I guess I&#39;ll post this and hope people like it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bye &amp;lt;3&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/12/December-06%2C-2013.html</id>
+      <updated>2013-12-06T13:47:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>December 2, 2013</title>
+      <link href="http://trommel.github.io/2013/12/December-02%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Shit.&lt;/strong&gt; I&#39;ve been back to school for less than a day and I&#39;m already suspended for 2. I&#39;ll get to that in a minute.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I woke up late at 7:25.&lt;/strong&gt; I&#39;d been meaning to wake up early so I could be out of the house by 7:45, so I could walk with Mercedez to school when she left. I checked the time and saw I was late, so a sprinted upstairs and ate Cheerios as fast as a human being can eat Cheerios. Then I ran and had a 4 minute shower, and ran back downstairs to throw some pants and a shirt on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I started walking and texted Mercedez,&lt;/strong&gt; asking when I should leave to meet her, but she&#39;d already left a while ago. I&#39;m not in any of her classes, so hopefully I&#39;ll see her at the end of the day. I continued walking to school, texting her on my way. When I got to school I went to return the camera I had signed out on Thursday to the video studio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My first block was Science,&lt;/strong&gt; which was alright. Mr. Ng is awesome, but sometimes you just have a slow mind, which is what I had this morning, probably for good reason because I was texting Phil until 2AM. I sat through Science and wrote the notes we were given down. Half way though the principal entered the class, quietly asked me to come to his office at the bell, and left.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Once the bell had rang I went to his office,&lt;/strong&gt; wondering why he&#39;d called me. Turns out I had tweeted something one of the teachers found offensive. I&#39;ve since deleted the tweet. Simply put, the tweet was a stab at one of my teachers, and when someone commented &quot;Can I slap [said teacher]&quot; I said &quot;Yes, do it&quot;, which is obviously a rude comment, and I&#39;ve acknowledged that. Because of this I&#39;m suspended for 2 days; 1 day in-school, 1 day home-school, and Lakota seems to find this hilarious which, I guess in a sense, it is, because of how serious empty dumb &#39;threats&#39; are taken here. I understand it was a rude comment, but it was found by searching for the tweet. If you&#39;re going to complain when you find mean things on the internet, don&#39;t go on the internet. Half-hearted apologies to my teacher, as I am still in the wrong for tweeting it in the first place. I&#39;m just a little choked.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When the bell rung,&lt;/strong&gt; telling me it was time for Math I stayed in the office as directed. We had an assembly, just as it so happens, on internet safety and security, so [the principal] personally escorted me to the room where the presentation was being held, because he wanted to get me there without anyone bugging me about what happened. Nice enough, he didn&#39;t sit next to me throughout the presentation as to not make it look like he was guarding me, which I appreciate. The presentation was interesting because of the things I could compare to my current knowledge. The presenter was &lt;em&gt;really superstitious&lt;/em&gt; about the internet, and almost described it as a negative thing, which annoyed me a little. A couple of the things she was mentioning were interesting because of how everyone else reacted, for example, &lt;a href=&quot;http://en.wikipedia.org/wiki/Snapchat&quot;&gt;Snapchat&lt;/a&gt;, where she mentioned that the photos you send aren&#39;t actually deleted after the timer runs up, which suprised almost everyone in the crowd because of how many naked photos people seemingly share. The presentation actually got me laughing at a couple points when the presenter pulled up fellow students FaceBook pages and pointed at how easily their information was obtained from a stranger. She proceeded to show everyone profile picture after profile picture that she had found, most of which were duck faces. Honestly, I think everyone needs to be more careful on the internet, but there&#39;s no need to be so superstitious. The internet is a good place, and people need to know where their boundaries should be set. Not too high, not too low. Just a happy medium. I&#39;m probably not the best person to be talking because of my idiotic past with social networks, but hopefully I can still contribute to helping people out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Right now I&#39;m sitting in the office,&lt;/strong&gt; quietly, writing this blog post. There&#39;s a kid who keeps talking to himself sitting next to me, and I feel like I&#39;m in the wrong place for this. So far it&#39;s been a shitty day, and more or less a waste of a long weekend (long story), so i guess that put me in a bad mood, but hopefully things turn out alright, and &lt;em&gt;I&#39;m sure they will, because they always do.&lt;/em&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/12/December-02%2C-2013.html</id>
+      <updated>2013-12-02T12:37:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 30, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-30%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;I can&#39;t decide whether today was good or not.&lt;/strong&gt; I mean, it&#39;s been a long day, but I enjoyed a couple of the things that happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I woke up at 11&lt;/strong&gt; this morning and went to check how the Bitcoin stock was doing, which is what I&#39;ve been doing for a couple days. Bitcoins are basically online cryptographic peer to peer currency, meaning you can send them to someone without a bank. Their value also changes every second, so right now 1 Bitcoin is worth over $1000 USD, while only last year it was worth $100 USD. The stock hasn&#39;t changed much, but I&#39;d made 20 cents since last night.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My family went to bring my brother to his hockey game,&lt;/strong&gt; and I stayed at the hotel. Right now we&#39;re in Vernon, a 4 hour drive from home, because my brother has 4 games here, so we&#39;re here for the weekend. 
+While everyone else was out I edited &lt;a href=&quot;http://youtu.be/E2bbra14iOk&quot;&gt;the movie I&#39;ve been playing around with lately&lt;/a&gt;, and talked to Mercedez. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lately Mercedez and I have been getting closer&lt;/strong&gt; and, like I covered &lt;a href=&quot;http://joshuatrommel.com/november-28-2013&quot;&gt;here&lt;/a&gt;, I feel as if we&#39;re already dating because of how we&#39;ve been with each other lately. When my family came back they brought me to Subway, and then to my brothers next game. I texted Mercedez the entire game and we ended up reaching a decision that &lt;em&gt;we&#39;re dating&lt;/em&gt;. And no, not over text. It felt kind of awkward, but I think we simply decided that it was &#39;official&#39;. I think we&#39;ve been dating longer, and so does she. As weird as this sounds, it is great to finally have it settled. She makes me so happy, and I can&#39;t wait to see her after the weekend&#39;s over.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&#39;m now at Boston Pizza&lt;/strong&gt;, still talking to Mercedez. I&#39;m excited where this will all go.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I guess it&#39;s been a pretty great day.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-30%2C-2013.html</id>
+      <updated>2013-11-30T19:19:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 28, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-28%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Today was pretty cool,&lt;/strong&gt; but it didn&#39;t start off pretty cool.
+I had to wake up at 6AM for Jazz Band, which I don&#39;t like doing. I was tired, and I had to go play stand-up bass for an hour.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After Jazz I had English,&lt;/strong&gt; which was pretty simple, because we just watched a movie. We&#39;ve been reading &lt;a href=&quot;http://en.wikipedia.org/wiki/In_the_Heat_of_the_Night_(novel&quot;&gt;In the Heat of the Night&lt;/a&gt;), and it&#39;s not that bad of a story. Today we watched the movie for it, and I ended up falling asleep after watching it for 5 minutes. I woke up with my hands asleep as the bell rang.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I had Gym next,&lt;/strong&gt; which was shitty. We were forced against our will to do push-ups, sit-ups, and run up and down the stairs all class. After Gym a couple of my friends and I booked it to Video Production class because we knew we were watching &#39;Alien&#39;, and we wanted to grab the couch before anyone else got it. We watched Alien for the entire hour of class, then through lunch, and finished it in the second block of the double block. We had to do a couple easy questions on the movie, answering things like &quot;What makes this a typical Sci-Fi movie&quot;, but they were simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Last block, I had Music,&lt;/strong&gt; which was alright. I finally got my normal bass fixed, so I was able to sit down for the hour of class, &lt;em&gt;which was a relief.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Once school was over&lt;/strong&gt; I went and hung out with Mercedez, Alex and Phil in the Video Production room. I edited a little bit of &lt;a href=&quot;https://vimeo.com/80527481&quot;&gt;the recent project I&#39;ve been fucking around with&lt;/a&gt;, and then we left the school and walked home together.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On the way home from school&lt;/strong&gt; Mercedez and I held hands for the first time, which was pretty cute (I point the little things out because I enjoy them). She makes me so happy, and I feel as if we&#39;re already dating, but I don&#39;t know. &lt;em&gt;Hold on, here comes the opinion trip.&lt;/em&gt; The thing with my school when &#39;asking a person out&#39; is to do it in an odd fashion. Asking someone out is standard procedure for... asking someone out, like to the movies, or dinner. Everyone at my school uses this term for dating though, basically meaning that if you don&#39;t say to the girl &quot;Do you want to go out?&quot; you&#39;re not dating, even though in the &lt;em&gt;real world&lt;/em&gt; people simply become better and better friends until they become so close that they start cuddling, kissing, hugging and all the awesome stuff that comes with having a relationship &lt;em&gt;(I&#39;ve worded this sentence the best I could but I don&#39;t even understand it myself).&lt;/em&gt; Obviously you don&#39;t have to do this if you don&#39;t want. Girl-friends are cool too, just not equivalently cool. The &#39;issue&#39; I&#39;m facing is how this is going to work out with Mercedez. The impact of &#39;How people ask people out&#39; has gotten to me, and &lt;em&gt;I feel like it&#39;s not dating unless I say something like that,&lt;/em&gt; which I don&#39;t really like the concept of. Anyways, that&#39;s just my opinion, so there&#39;s probably going to be people who disagree. Regardless, that&#39;s how I feel, and I don&#39;t think that&#39;s going to change. On that note, I&#39;ll just post this to Twitter and hope people like it. I&#39;m assuming that none of this makes sense because I&#39;m tired as hell, but if it gets through to anyone I&#39;ll be happy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I love you guys &amp;lt;5&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-28%2C-2013.html</id>
+      <updated>2013-11-28T20:23:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 22, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-22%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;It&#39;s 1:51 in the damn morning and I&#39;m awake.&lt;/strong&gt; Fuck, I really need sleep. Here&#39;s what&#39;s happened, and I apologize in advance if my English is not at normal caliber, because I&#39;m really tired.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This morning I was called down the the office.&lt;/strong&gt; I strolled down and sat on one of the chairs in the waiting room, wondering what it was for. After waiting for about 10 minutes the principal, Mr. D called me in. He asked why I wasn&#39;t at homework club the day prior (Homework club is something you&#39;re invited to if you&#39;re not completing your homework by the expected dates). I told him I had thought it was cancelled because of Tutorial Wednesday, and he told me it wasn&#39;t, meaning I would have had to sit around and wait for it once I had gotten out of school on Wednesday. &lt;em&gt;An hour of sitting around.&lt;/em&gt; He told me if I didn&#39;t have the homework I needed completed by tomorrow (technically today) I was going to receive an in-school suspension, which is actually thrown around at Brookswood Secondary School. I know when I was a kid a suspension was only dealt after a terrible act of violence, at least that&#39;s what I had thought. I&#39;ve realized it&#39;s really simple to get a suspension, and the staff is looking for any reason to give you one.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I finished the rest of the day,&lt;/strong&gt; which was pretty crappy because I had double block of the one class I&#39;m failing, Socials, which I know isn&#39;t that hard. &lt;em&gt;I just have absolutely terrible work ethics with things that don&#39;t interest me to the slightest.&lt;/em&gt; And in this case, Socials actually does interest me, quite a lot actually. Just the way it&#39;s taught and presented in our class kind of turns me off of wanting to learn more about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After school I had homework club again,&lt;/strong&gt; which was a complete waste of time. All the work I needed to finish was on &lt;a href=&quot;https://www.checkmymark.com/&quot;&gt;CheckMyMark&lt;/a&gt;, and I didn&#39;t have access to the password to my account (the password was on the family computer at home), so I sat in a desk, quietly, minding my own buisness, for 45 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Once I got out of Homework Club I walked home&lt;/strong&gt; with Mercedez, Phil, Alex, and Tanay (Mercedez&#39; Friend, hopefully I&#39;m spelling her name right). Phil and Tanay broke off to go home, and Alex headed back to the school to get picked up, so Mercedez and I walked home together. The highlight of our conversation was group projects, and how much they suck to have, typically because if you get assigned with the wrong person &lt;em&gt;you&#39;re screwed.&lt;/em&gt; We laughed all the way home, and I know I &lt;a href=&quot;http://joshuatrommel.com/november-14-2013&quot;&gt;said it before&lt;/a&gt;, but her laugh is really &lt;em&gt;really&lt;/em&gt; cute. When we got home she said &quot;bye&quot; and I ended up saying &quot;goodnight&quot;, even though it was 4PM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I walked home and immediately grabbed some Eggo&#39;s out of the freezer because that&#39;s what I do when I have pages of assignments due.&lt;/strong&gt; After I was done with my eggos I went downstairs and started on my work, and after simultaneously talking to Mercedez about mangoes and everything else, trying to help Cameron out with HomeBrewing his Wii, answering Phil when he asked me what my height was for a tall joke and actually doing the work,- &lt;em&gt;deep breath&lt;/em&gt; -I finally have everything finished. It was a long day today, but Mercedez, Phil, Alex, and a couple other friends were able to brighten it up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I &amp;lt;3 people.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-22%2C-2013.html</id>
+      <updated>2013-11-22T01:51:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 18, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-18%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Today was amazing.&lt;/strong&gt; Almost everything that could go right today went right and almost everything that could have gone wrong today didn&#39;t. Let me tell you how it went.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I woke up at 7:30.&lt;/strong&gt; My mom came downstairs and started talking to me without realizing the time (school starts at 8:15). I listened, but was curious if she would keep talking so I could be late (my first class was English which I&#39;m not enjoying lately. If you&#39;re confused read my earlier posts). Sure enough she kept talking, and didn&#39;t stop until 8. I went upstairs to eat some Eggo&#39;s, which are my favourite food because they require almost no preparation or work. After eating I went and took a shower, then headed downstairs and got changed, dragged a comb across my head, threw my stuff in my backpack, pocketed some change for lunch and put my shoes on. By that time it was 9:10. I got in the car and headed off to school.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;By the time I got to school it was 9:30,&lt;/strong&gt; and I was late by 5 minutes to gym. If it were any other class I would have run and grabbed my books, but since it was gym I decided to go to the cafeteria and browse Reddit. My reasoning for this is simple: Every time I&#39;m late to Gym my teacher marks me as completely absent. I decided I didn&#39;t feel like running around in shorts for an hour to get the same grade as if I hadn&#39;t, so I took my decision.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The bell rang after the block was over,&lt;/strong&gt; and I started walking towards Video Production, which I was excited about because of the double block (today&#39;s block order for me was English-Gym-Video-Band). When I got there I sat down on my laptop and started touching up on the horror film we&#39;ve been working on lately. I didn&#39;t really do anything especially exciting, but it was a fun, easy block. When the bell rang I went to Camy&#39;s Pizza for Lunch, and headed back to Video. When the second block started I did them same as the first. Easy 2 hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My last block was Band,&lt;/strong&gt; which is another easy hour. I play stand-up bass, so I just stood up and plucked strings for 60 or so minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After band I went to the library and participated in &#39;Homework Club&#39;, a &lt;em&gt;&#39;club&#39;&lt;/em&gt; where you go if you&#39;re not doing well with your academics.&lt;/strong&gt; In particular, I&#39;m not doing great in Socials, so that&#39;s why I went. I did a bit of work there, and when it was over I went and found Mercedez, her friend Autumn, and my friend Cameron.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We all went back to the Video Production room and we showed each other the films we&#39;ve been working on.&lt;/strong&gt; &lt;em&gt;I gave Mercedez the free hug that I promised her&lt;/em&gt; &lt;strong&gt;&lt;em&gt;(and she promised me)&lt;/em&gt;&lt;/strong&gt;, and then we headed home. Autumn got her parents to pick her up, but Mercedez, Cameron and I had to walk home. &lt;strong&gt;In the pouring rain.&lt;/strong&gt; Cameron had an umbrella, but I didn&#39;t fit so I went to the school&#39;s lost and found. There, I found a huge plastic bag which I wrapped myself in.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Half way home Cameron had to leave&lt;/strong&gt; to go to his house, so &lt;em&gt;Mercedez and I were alone to talk.&lt;/em&gt; Again, we didn&#39;t talk about anything particularly interesting, but just talking to her kept me happy. When we got to her house I gave her a hug and said goodnight, then headed back to my house, which is only a 30 second walk away.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When I got home I put on some pajamas&lt;/strong&gt; and started changing up &lt;a href=&quot;http://imjosh.me&quot;&gt;imjosh.me&lt;/a&gt; for fun. I had Dinner, and now I&#39;m here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Awesome day.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-18%2C-2013.html</id>
+      <updated>2013-11-18T20:58:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 15, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-15%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Today was shit.&lt;/strong&gt; Just like I predicted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First off in the day was Socials,&lt;/strong&gt; so that&#39;s where I headed, and sat down in my seat when I got there. Sitting at a desk wears on you when you do it 7 hours a day, every day, 5 days a week, 4 weeks a month, 12 months a year (well for school, more like 9 months, but still), and that&#39;s why I know I can&#39;t work at an office job. Until I graduate I&#39;m going to have to put up with it though. As soon as Mr. Allen started writing on the board I realized I&#39;d forgotten my glasses, and since my parents weren&#39;t home I knew I had to go the rest of the day without my glasses, which isn&#39;t sublime. I sit in the front of the class for Math, which is good, because I definitely couldn&#39;t see from the back. As for Info Tech- there is no board to look at, the computer is in front of you. Science is okay because Mr. Ng projects everything he wants us to see onto a huge screen that I can see without trouble.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But I couldn&#39;t see the board in Socials,&lt;/strong&gt; so I asked Daiya, the girl sitting next to me. She didn&#39;t really tell me anything other than &quot;We have to write a paragraph on what started the French Revolution&quot; which, now that I think about it, was quite clear. I was probably just not thinking straight because of the lack of sleep I&#39;ve been getting lately because of Arrested Development. &lt;em&gt;Damn show is amazing.&lt;/em&gt; I finished my paragraph in Socials and headed off to Math, which went pretty standard. We had a test, but I think I did fine on it. Probably 80%, which is either a B+ or an A- they don&#39;t really explain grades very clearly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Then I had Info Tech,&lt;/strong&gt; which I wasn&#39;t too disappointed about because it&#39;s &#39;Free Day Friday&#39;, basically a day where nobody does work, we just muck around on the computers. Turns out double block Info Tech is only Free Day Friday on the second block, so we had to work for the first hour. Once the first block of Info Tech was finished I went to eat Lunch in the video room. The bell rang shortly after and I headed back to Info Tech, where I worked on a stupid little app for an hour.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I had Science last block, where I needed to complete work before I could do my test.&lt;/strong&gt; I went into another room with a bunch of other kids who hadn&#39;t finished the assignment and I finished it with them. Now the plan is to finish my test on Tuesday &lt;em&gt;or bust&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maybe the day sounded more shitty in my head. I&#39;m just glad it&#39;s over and I can get working on EduTeach, a recent project, with Lakota over the weekend.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;Edit: 3 Hours Later.&lt;/strong&gt;
+If you look back at my older posts most of them seemed to have a small
+moral at the end of something that I had learned that day (I know, I know, cliché). Lately I&#39;ve been realizing this is dropping, especially in this post, where I barely wrote anything about anything. I&#39;m going to start doing my best to go over what I learned.&lt;/p&gt;&lt;/blockquote&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-15%2C-2013.html</id>
+      <updated>2013-11-15T18:52:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 14, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-14%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;I can&#39;t even tell if today was good or bad.&lt;/strong&gt; There was so many ups and downs I don&#39;t really know where to start.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&#39;ll start off in the morning.&lt;/strong&gt; I had &lt;em&gt;jazz band&lt;/em&gt;, so I had to wake up early, and be at the school by 7, as if school doesn&#39;t start early enough. Jazz Band went well, but since I play &lt;em&gt;stand-up bass&lt;/em&gt; I have to &lt;em&gt;stand up&lt;/em&gt; the entire 90 minutes we play, which gets pretty tiring for a non-athletic me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Immediately after Jazz Band was over I had Gym&lt;/strong&gt;, which sucked because my legs were really sore for standing up for an hour and a half. Mr. Brown made us do push-ups &amp;amp; sit-ups for about 15 minutes and then we played a game which, &lt;em&gt;of course&lt;/em&gt;, involved running. The objective of the game was to get a ball in the opponents basketball hoop, but you kicked the ball around to move it, similar to soccer &lt;em&gt;(or football if that&#39;s what you call it).&lt;/em&gt; I ended up getting kicked in the leg like 4 times while trying to get the ball, so I ended up having sore legs for the next 20 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5 minutes before Gym ended the principle found me and asked me to come to his office.&lt;/strong&gt; He brought me to his room, shut the door, and started to talk to me about what had happened the day prior to today; I had skipped &#39;Tutorial Wednesday&#39;, which is, put simply, a free hour every Wednesday allocated for students to go see teachers about homework. School ends an hour early every Wednesday, and if teachers want to see you you&#39;re expected to go. On Tuesday I was &lt;strong&gt;apparently&lt;/strong&gt; &lt;em&gt;(I&#39;m unaware of this)&lt;/em&gt; invited to go see my English teacher, and I &lt;em&gt;didn&#39;t&lt;/em&gt;, because I was in video working on my horror film (which, by the way, is finished, and if you&#39;d like to see it, &lt;a href=&quot;http://www.youtube.com/&quot;&gt;here&lt;/a&gt;). The principle said that I&#39;d have to go and see Mr. Rice (My English teacher) as soon as I can, which I told him was Friday. Then I headed off to my next class which was (of course) English. Mr. Rice was probably steaming at me as I walked into the classroom. That&#39;s why he sent me out in the hallway the first chance he could get. I don&#39;t blame him, though. I&#39;d be angry if I were him, except he doesn&#39;t know the entire story, which I didn&#39;t get a chance to tell him. I finished my work in the hallway and came back into class as the bell rang to grab my stuff, then headed back to band, which I had double block of.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The fire drill that was scheduled immediately was canceled&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(For no apparent reason),&lt;/em&gt;&lt;/strong&gt; so we went on with band. Nothing out of the ordinary happened in Band, and I can&#39;t decided whether that&#39;s a positive or a negative. After double block band, I went to my last class, video production.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Since I was kind of fed up with how low the productivity rate of my group has been lately I decided to stop enforcing things and start editing the video, while letting the other members of the group figure things out for themselves.&lt;/strong&gt; Thankfully, this worked, and we were able to finish shooting &lt;em&gt;(and editing. The video was completed about 20 minutes ago as I&#39;m editing on my laptop at home).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After school I stayed to edit a bit longer with Tyler, Phil, Mercedez and a couple of other girls.&lt;/strong&gt; Tyler was &lt;strong&gt;heavily&lt;/strong&gt; focused on making a YouTube channel branched of a video I &lt;em&gt;kind of&lt;/em&gt; made. The video is essentially the High School Musical theme overlapping the Call of Duty Ghosts trailer, but Tyler decided to start a YouTube channel where he uploads trailers with music that doesn&#39;t fit the subject properly. Hopefully it works out and he gets a kajillion views.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After I had edited for a while, Phil, Tyler, me and Mercedez walked home together.&lt;/strong&gt; Phil hopped on his bus halfway home, and Tyler went home about 10 minutes later. Since Mercedez and I live beside each other we had a bit of time to talk.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mercedez and I talked about a couple of things, one being the asians in our school who block up the hallway.&lt;/strong&gt; We started laughing and I &lt;em&gt;cannot describe to anyone how cute she it when she laughs.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Then we got on the topic of Gym, and why anybody would want to join high performance Gym, which died down slowly as we approached our houses.&lt;/strong&gt; I said goodnight, and I went home. Then I edited the video, &lt;a href=&quot;http://en.wikipedia.org/wiki/IOS_jailbreaking&quot;&gt;jailbroke&lt;/a&gt; by dad&#39;s old iPhone, and started typing out this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And now here I am.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-14%2C-2013.html</id>
+      <updated>2013-11-14T23:19:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 12, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-12%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Today was a good day.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a couple awesome classes today, some which I enjoyed more than usual. This morning I had &lt;strong&gt;video production&lt;/strong&gt;, and recently our project is a horror film. A couple of people were shoved into a group, and I ended in a group with a couple people I&#39;m not too familiar with, one that I&#39;m friends with and another that I&#39;m &lt;em&gt;acquainted&lt;/em&gt; with. I talked about this on &lt;a href=&quot;http://joshuatrommel.com/october-23-2013&quot;&gt;October 23&lt;/a&gt; when I was put into the group, so read up on that if you haven&#39;t already.&lt;/p&gt;
+
+&lt;p&gt;Today we filmed a bit more, but not much progress was being done. We ended up getting only &lt;em&gt;5 shots completed&lt;/em&gt; by the end of class.&lt;/p&gt;
+
+&lt;p&gt;Next was Band. Lately I&#39;ve been growing quite fond of band, simply because I&#39;ve been getting better at the bass. In my first year of Band &lt;em&gt;(last year)&lt;/em&gt; I barely knew how to hold the bass properly, never mind play the proper notes. This year I&#39;ve started learning a lot more about how to play, and I&#39;m finally able to actually contribute to the band, which is &lt;em&gt;kinda awesome&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;English was next, which I don&#39;t care for. Like I mentioned on &lt;a href=&quot;http://joshuatrommel.com/november-4-2013&quot;&gt;November 4&lt;/a&gt;, Mr. Rice seems to be getting really sick of the kids in my class, so lately he&#39;s been getting pretty angry and losing his patience relatively quickly. Fortunately we didn&#39;t have to do any work because we had an assembly immediately.&lt;/p&gt;
+
+&lt;p&gt;The assembly was a cliché bullying assembly until the ending, where the presenter told us he was gay, which shocked everyone for some reason. Then the guy went on about a boy named Jamie who was bullied. Worse turned to worse and let&#39;s just say &lt;em&gt;&#39;bad things happened&#39;&lt;/em&gt;. It was a sad story but it didn&#39;t really make me reconsider anything. &lt;strong&gt;As far as I know, I&#39;m don&#39;t bully anyone.&lt;/strong&gt; I agree with the message that people are trying to send, but I think we need to take a different approach towards it. Instead of trying to get bullying to stop &lt;em&gt;(shocker: it&#39;s not going to)&lt;/em&gt; I think people should learn how to stand up for themselves and not take shit from other people. There&#39;s so many sad stories on the news in the past years, and it makes me wonder if those people could&#39;ve ignore it, or better yet get it to stop themselves. &lt;em&gt;Their lives would have changed for the better.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;After the motivational speech we went back to English to work. The only work we were actually given was an assignment regarding the &#39;bring-your-kid-to-work-day&#39;. Needless to say I didn&#39;t wan&#39;t to write another essay about it because I already have one written &lt;em&gt;(I wrote one on &lt;a href=&quot;http://joshuatrommel.com/november-6-2013&quot;&gt;November 6&lt;/a&gt;).&lt;/em&gt; I wrote it anyway, and got on with my day.&lt;/p&gt;
+
+&lt;p&gt;My last block was gym, and it was &lt;em&gt;awesome&lt;/em&gt;. We played dodgeball with the Grade 11&#39;s, and were obliterated, but it was fun while it lasted.&lt;/p&gt;
+
+&lt;p&gt;After school I had Jazz band, and I forgot to get a chair when we set up, so &lt;em&gt;I had to stand for an entire 90 minutes.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tomorrow is going to suck.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-12%2C-2013.html</id>
+      <updated>2013-11-12T21:05:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 10, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-10%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Hi again&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;First off, I&#39;ve been making a couple changes with domains, and want to get that cleared off. I know this probably isn&#39;t &#39;blog&#39; material, but whatever. &lt;a href=&quot;http://imjosh.me&quot;&gt;imjosh.me&lt;/a&gt; is my main website. I don&#39;t really have much there, other than a couple links to different social networks. I&#39;m planning to do something with it &lt;em&gt;eventually&lt;/em&gt;. My other domain is &lt;a href=&quot;http://joshuatrommel.com&quot;&gt;joshuatrommel.com&lt;/a&gt; which, as you can see if you click the link, is being used for my svbtle blog. I&#39;ve moved from WordPress because I was finally invited &lt;em&gt;(after months of waiting)&lt;/em&gt; to &lt;a href=&quot;http://svbtle.com&quot;&gt;svbtle.com&lt;/a&gt;, so I moved everything from WordPress over here, and I&#39;m glad everything went smoothly because I don&#39;t want to go back to WordPress any time soon.
+&lt;em&gt;Good, now that&#39;s off my chest and hopefully everyone knows where to go.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Today was a great day. Productive in a certain aspect, non-productive whatsoever in another.&lt;/strong&gt; Today, I sat at home for almost 12 hours screwing around with my Wii. I also Skyped with Lakota and his friend for a couple hours, and talked to Mercedez all day. I didn&#39;t even make myself food, I just had cereal twice, and leftover chicken from Montana&#39;s last night. While I was doing this, everyone else went to America, land of the free &lt;em&gt;(haha not really)&lt;/em&gt;. Pretty antisocial, I guess, but in retrospect it makes sense (kinda), because everyone is so loud. I don&#39;t care for loud people, unless there&#39;s a certain reason they have to be loud. Anyways, I&#39;m getting a little off topic, which I tend to do quite often. &lt;strong&gt;Ahem.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After 10 years of craving &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker&quot;&gt;Legend of Zelda: Wind Waker&lt;/a&gt; I finally got it working.. kinda. I &lt;a href=&quot;http://en.wikipedia.org/wiki/Softmod#Softmods_for_Nintendo_Wii&quot;&gt;softmodded&lt;/a&gt; my Wii, and then installed a couple files that allow it to run files from a USB. I then found the &lt;a href=&quot;http://en.wikipedia.org/wiki/ISO_image&quot;&gt;.ISO&lt;/a&gt; file for it on some random website, burned it to the USB, and finally got everything working perfectly. The entire &lt;em&gt;&#39;project&#39;&lt;/em&gt; took about 4 hours. I then played Wind Waker for &lt;strong&gt;at least 10 hours&lt;/strong&gt; &lt;em&gt;(I lost track of time).&lt;/em&gt; Total time waster, but I&#39;m glad I did it, because it was &lt;strong&gt;awesome&lt;/strong&gt;. My next &lt;em&gt;&#39;project&#39;&lt;/em&gt; is to get the &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time&quot;&gt;Ocarina of Time&lt;/a&gt; game working, because it&#39;s apparently awesome, according to &lt;a href=&quot;https://twitter.com/HiddenPaws/status/399758811658850304&quot;&gt;this tweet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Other than that, I didn&#39;t really do anything today. But I think everyone needs days like that once in a while.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;A quiet peaceful day to play Zelda.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-10%2C-2013.html</id>
+      <updated>2013-11-10T16:44:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 6, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-06%2C-2013.html" />
+      <summary type="html">&lt;p&gt;Alright, well I’ve been listening to &lt;a href=&quot;http://www.youtube.com/watch?v=0t0fZeySNck&quot;&gt;this song&lt;/a&gt; for the past 20 minutes, trying desperately to get rid of my writers block. It might have helped, I don’t know. I need to get to this.&lt;/p&gt;
+
+&lt;p&gt;Today was ‘bring-your-annoying-shit-head-child-to-work-day’. It happens every year on the first Wednesday of November, and applies to every grade 9 in the BC school district. This means no school for a day, so most people do what they can to go to work with one of their parents if it means skipping school for a day. (While I’m writing this I can’t even think straight because of &lt;a href=&quot;http://www.youtube.com/watch?v=0t0fZeySNck&quot;&gt;this&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Most of my friends went out with their parent (mom or dad, or whoever else takes care of them) and spent an entire day out working with them at whatever job they do. I went with my Dad, who does the most exciting job in the world, garage doors. He goes around fixing hinges, winding springs, and slickly slipping his business card into their shirt pocket. I have to admit, the day was fun. I mean, of course the ‘no school’ part was pretty great (aside from today being my ‘good day’ at school, the day with all my favorite classes), but I think I would have done this even if school wasn’t a part of it. We even went to Wendy’s for Lunch, so that was kinda awesome.&lt;/p&gt;
+
+&lt;p&gt;If it’s not clear enough, I do not want to be fixing garage doors when I’m older. I guess it’s kind of a ‘fail safe’ plan, worst case scenario, but my goal is Google, and anything below that would be not achieving my goal. Of course, I’m going to be working at other places on the way there, but Google is the main objective. After I work there for 5-10 years I hope to say goodbye to Google and start my own company, probably based on technology.&lt;/p&gt;
+
+&lt;p&gt;Comparing any tech company with garage doors is odd. Tech companies are not even remotely close to garage door fixing. One is coding, sitting in a chair all day, and eating snacks, while the other is heavy lifting, physical labour, and all the things I don’t enjoy too much. I’m not a huge guy, and I don’t really want to be. With that being said I still wouldn’t want to do garage doors for a living even if I was. Wait a minute, &lt;a href=&quot;http://www.youtube.com/watch?v=0t0fZeySNck&quot;&gt;the song&lt;/a&gt; just stopped playing, let me go turn it back on.&lt;/p&gt;
+
+&lt;p&gt;Ok, it’s back on. Back to my post. I think the point of this ‘bring your kid to work day’ isn’t for your kid to think “I really want to do this job when I’m older”, I think it has more to do with teaching the kid work ethics, how to try your best at your job, and everything else they never teach you in High School because they can’t. Now, this is an obvious realization, I just wanted to point it out. Today, I learnt (learned?) presumably good work ethics, as I only attended 3 jobs (his schedule wasn’t very busy today). The biggest thing I think I learnt today was honesty, and let me tell you why. Every garage door has 2 springs that are winded up, and when you lift the garage door the springs unwind, taking tons of weight so you don’t have to. Of course, there are different springs for different weights for different doors, and figuring out how much a door weighs can be tricky. Estimation is key, and this isn’t awesome because if you estimate improperly you have to redo the entire job. Unfortunately, today was one of those days. Now, the spring was close to “good enough”, and we could have collected the paycheck right there, left, and nobody would every know about it. But, that’s not what we did. Instead, we took off the entire spring (we only needed to change one spring), and put another stronger one on. This entire completion basically doubled the time of the job from 1 hour to 2, making us 40 minutes late for our next job (obviously not good). The point I’m trying to get across here is that we could have left, but we didn’t. Ethics is important in life, never mind jobs. People like honesty, and although this guy didn’t even begin to comprehend what we’d done until we explained it to him it was the right thing to do. &lt;strong&gt;&lt;em&gt;Don’t con people, that’s what I learned.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If I was supposed to learn something more, sorry. We didn’t really do much today except go to 3 houses, watch a movie on my Dad’s iPad, and eat Wendy’s for half and hour. But today was a pretty awesome day.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-06%2C-2013.html</id>
+      <updated>2013-11-06T20:24:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 4, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-04%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;em&gt;New post. Alright, think.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;What did I do today. Nothing. Absolutely nothing. I’m sitting here thinking about absolutely nothing. I’m filling my head with boringness, but today is Monday, and tomorrow is Tuesday, and Tuesday is when I’m supposed to write a blog post, and I like being early for things like this, so I’m writing my post today. Oh look, I got a text. I’ll just go check that.&lt;/p&gt;
+
+&lt;p&gt;Again, nothing really happened today. I had English first block, with a teacher that’s gradually getting more and more “sick of everyone’s shit”, which is understandable, just annoying because nobody understands the crap he goes through, and he’s pissed out of his mind by the end of each class. I have friends, which I love, but most of my peers act retarded sometimes. And hey, so does everyone. It’s just annoying when their actions affect others. Same goes with the drug assembly that happened today. Because of a couple idiots who do drugs in the corner of the school’s property every grade 9 in the school had to attend an hour long talk about why drugs are bad. Things like this piss me off a little. In my own opinion, I think we should single the kids who are dealing out the issue and address them, because everyone else who hasn’t caused an issue yet probably won’t. And I don’t mean “never address drugs until the people have tried drugs”, I mean if by 14 the kid hasn’t done drugs don’t teach them the same thing about narcotics and stimulants and depressants and all the random crap we don’t need to know. It’s really (what’s the word) unfair, that everyone has to deal with the consequences. Because of this hour long assembly I lost an hour of filming time. Unfair.&lt;/p&gt;
+
+&lt;p&gt;Well I guess I did have a lot to say, most of it wasn’t very positive though. I guess that’s expected when I’m here to talk about everything and everyone on my mind. Not really sure what else to write about, because that was essentially my day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When I got home I took off my shoes and browsed Reddit and YouTube, while talking to Mercedez and friends on Twitter. Not a productive day, but not a bad day.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-04%2C-2013.html</id>
+      <updated>2013-11-04T12:51:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 2, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-02%2C-2013.html" />
+      <summary type="html">This post is addressed to Mercedez because she wanted me to make one today.
+
+Since I usually blog because I had something particularly interesting happen on that day, today wasn’t super interesting, though that doesn’t make it a shitty day, because today was a pretty good day. I talked to Mercedez almost all day today, only stopping when I went to go eat Breakfast at 12:45 (more like Lunch, but I woke up late so I call it Breakfast), and Dinner at 7.
+
+The day consisted of a couple things, mainly 3. *Talking to Mercedez, eating candy while on Twitter, and making a couple videos to post on YouTube.* The videos are boring tutorials, and the only reason I’m making them is for other people that enjoy the same shit as me (which are far and few between). I also like the money part of YouTube, so if I upload a tutorial every so often I can fatten up my wallet so I can buy a zebra or something of equal value. Mercedez and I talked for almost 12 hours straight, and we’re still talking. Chances are, like last night, we’ll be talking until midnight or past. If you’re paying attention you can probably guess I really like this girl, so kudos to you if you thought so. You guessed right. I guess the point of the blog here is to talk about things, so I’ll just go into detail about her, and if she comes across this post she can read all about herself and either be really creeped out, or get really happy. Hopefully it’s the second one. I’m also going to talk about some stuff that I haven’t told her yet, and I’m going to be sending her the link to this post after I’m done writing, so she’ll see it as soon as it’s posted.
+
+Hi, Mercedez. I think you’re really cute. And funny. And you know how to make me smile. I don’t see you much often, and even last year you were only in 2 of my classes, so I only got to see you for an hour a day, which definitely wasn’t enough. Lately, I’ve been notified of the fact that you liked me, and let me explain what that means to guys for a sec. Guys have a weird level of expressing what they like with a girl. With typical guys, there are 3 stages. There’s the “she’s pretty cute” stage, where the guy simply acknowledges that the girl is attractive. This means almost nothing to the guy, because he’s just stating that she’s cute. Like a puppy. Then, there’s the “I like her” stage, where the guy feels emotionally connected with the girl. There’s still the “she’s cute” stage latched on, but the guy feels a lot more with her. He’s either friends with her, or he enjoys his time with her, or whatever it is. More or less, this stage is described easiest by saying it’s like the “personality” stage. The last stage is “I would date her”. This is the highest caliber of stages, basically the girl is Level 1 Billion Awesome if you consider her high enough up to be at this stage.  This means you would cuddle and kiss, and all the cute shit you see in movies (I’m aware I’m starting to talk like a girl, but nonetheless, this is what guys think of. Everyone likes cuddling). To me, this stage can only be achieved if the guy and the girl have been friends. I can’t speak for anyone else, but to me relationships are pointless and ineffective if the guy and the girl weren’t almost best friends before hand. I’ll probably get kicked in the head for pointing that out (or maybe not, since nobody reads this blog), but that’s my opinion on things.
+
+With Mercedez, I don’t feel like we’re there yet. I feel like we’re between stages. I like her, a lot. I just don’t think it would feel normal to start dating this minute. The same thing happened a couple months ago, before Summer started. Mercedez and I were basically ‘flirting’ (I really don’t know what flirting counts as, but to me it was), and it got to the point where I felt pushed to ask her out, but I didn’t feel comfortable doing so. I want this to change. I want to get to know her enough to feel comfortable enough to go out with her, but right now I don’t feel like it would work. I want to see her as much as I can, and get to know her like I should already. There’s so much I don’t know, and I feel obliged to learn it before anything happens. And as soon as I feel I know everything about her, and I feel comfortable with her, we can cuddle, and do all the cute shit in movies. And date. That’ll be the best part. Anyways, bye Mercedez.
+
+**Well that was my post for today. Merry New Year.**
+</summary>
+      <id>http://trommel.github.io/2013/11/November-02%2C-2013.html</id>
+      <updated>2013-11-02T12:41:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>November 1, 2013</title>
+      <link href="http://trommel.github.io/2013/11/November-01%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;em&gt;I have absolutely no fucking clue what happened last night.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The night started out as I kinda pictured it would. At 14, most people don’t want to give candy to you, especially when your costume is dumb as shit (I went as a nerd [easiest thing to pull off], Phillip went as an Asian Tourist [he&#39;s actually been planning this for a while, and he&#39;s been pretty excited about it too], and Mercedez [another friend] went as Facebook [she literally wrote &quot;Book&quot; to a piece of paper and held it to her head]). But we weren’t going out for too long, and we were mainly just going out for a fun time, to talk, and to laugh about whatever came up. I think in total we only knocked on 15 doors, which is probably near to the same amount a 5 year old would get.&lt;/p&gt;
+
+&lt;p&gt;Anyways, Phil’s over, we go to Mercedez’ house, which just happens to be right next door (Mercedez just moved in across the street a couple weeks ago). We head out, and the first house we knock on gives us an entire full chocolate bar. More of this continues to happen, which I guess makes sense, maybe because everyone felt it was out last Halloween, even though our last Halloween should have been 2 years ago. I agree, and I felt like a tool walking around demanding candy from strangers, but I still had a good time, mostly because 90% of the time we were walking around wasn’t banging on doors. We just had a fun time.&lt;/p&gt;
+
+&lt;p&gt;We ended up at Annabelle’s house (another friend), and she gave us her entire bowl of candy, which was cool. She was having a party, but we didn’t stay, for whatever reason. Thinking back now, it would have been pretty awkward to waltz into her house uninvited (even though she had invited me a couple weeks ago). We left her house and continued our quest of epic solitude.&lt;/p&gt;
+
+&lt;p&gt;We continued walking, and ended up past the BMX Track, which is fairly far. This is where weird shit started to happen (to me anyways). I guess I was tired, and I felt woozy. It felt like I was in a dream, and that’s where we decided to circle around the block and turn home, because it was almost pitch black anyways. Don’t worry, nobody dies in this story.&lt;/p&gt;
+
+&lt;p&gt;It took a while to get home, and I think it was quarter-after-eight, and dark outside before we did. When we got home, Mercedez went back to her place and Phil and I dumped out candy on the ground in my bedroom and started playing BlackJack against each other to try and win some candy. Then I texted Mercedez to come over and play BlackJack with us, so she did. Minutes later, Tyler and Sami arrived, and walked into my bedroom uninvited.&lt;/p&gt;
+
+&lt;p&gt;We all played BlackJack together, and then Tyler and Sami had to leave to get back home. By that time it was about 9. Then, Phil, Mercedez and I played “fuck, marry, kill”, basically the best game in the world. The point of the game is all shit’s and giggles. Basically, you take turns naming off 3 people, and everyone has to say who they’d fuck, who they’d marry, and who they’d kill. It’s a intellectually structural game, and has been proven to be helpful with neurology studies (yuk yuk). That game lasted surprisingly long, and at 10 PM Mercedez walked home and Phil got picked up by his Dad.&lt;/p&gt;
+
+&lt;p&gt;That was about the time I decided to go lie on the side of my bed and try to get to sleep, which I did. Happy Halloween, I guess.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;Edit: November 2, 2013&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I guess the entire post was more or less a Halloween post, making the title (November 1, 2013) irrelevant. The post was written on that date, but was about October 31, 2013. Decide yourself what you want to call it.&lt;/p&gt;&lt;/blockquote&gt;
+</summary>
+      <id>http://trommel.github.io/2013/11/November-01%2C-2013.html</id>
+      <updated>2013-11-01T12:38:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>October 30, 2013</title>
+      <link href="http://trommel.github.io/2013/10/October-30%2C-2013.html" />
+      <summary type="html">&lt;p&gt;Halloween’s tomorrow. I’m sick. Hopefully I can get my shit together, toughen up, and get a crap ton of candy.&lt;/p&gt;
+
+&lt;p&gt;But yeah, I’m sick. I didn’t go to school today. I slept all day. I have to say it was pretty nice. Boring, but nice. I haven’t gotten much rest lately, since &lt;a href=&quot;http://twitter.com/backpackdev&quot;&gt;@backpackdev&lt;/a&gt; started getting more of a trouble to manage, and getting to stay home, not think about work, and sleep for an extra 5 hours (yes, 5 hours, I shit you not) was pretty awesome. I guess school has a lot to do with my brain, though. I don’t mean learning, but more of ‘what happened today’. If you don’t understand what I’m getting at, neither do I. I’m still tired, so I’m probably going on another retarded rant, but hear me out. Without school, I don’t really have much of a story to tell. I wouldn’t really have any friends (I’m not in any extra curricular activities except ones involved in school), and if I was simply homeschooled I would be sitting at home all day, every day, doing work. I might be able to get it done earlier than in class (since there’s nobody distracting me), but I wouldn’t have anything to write about, or more importantly think about. Almost everything that happens to me in the 24 hours in my day is school and sleep. I spend almost 7 hours every day at school, sometimes more (extra curricular), and another 7 hours sleeping. That leaves 10 hours, which is mostly spent writing about what’s happened that day, working on the latest project on Twitter, tweeting (I do this a lot), or homework, which surprisingly I don’t get a lot of, so that’s good. I guess what I’m trying to highlight is that school is important because without it you have no resources of learning vital information. Ok, understanding trigonometry might not be important in the future but there are a lot of things that are. The other thing is the social part of school. Without this, you develop no social skills. I’m not gonna pull out the “studies show” crap, because I hate it when people do that to me, but comparing people who have been home schooled their entire life, and people who went to school the full 13 years is interesting. People who have been homeschooled their entire life seem like boring people. I bet anyone who was given a choice between being friends with someone who’s been homeschooled, and someone who went to school 5 days a week, every day, all month, all year, until they were old, or smart, enough to graduate, would choose the schooled kid.&lt;/p&gt;
+
+&lt;p&gt;Like I said, I have no idea what the hell I’m talking about, and exactly what point I’m trying to express here, because like I said, I’m tired. I’m probably gonna take another nap after this, have some chicken noodle soup, and a glass of milk, but maybe when I’m writing like this, I talk about things that might make sense to someone else in the same condition. I’m guessing this, by the way.&lt;/p&gt;
+
+&lt;p&gt;Anyways, without school, you’re a boring person. Today was a boring day. I don’t have a lot to talk about. I just have an alarm set to tell me to write something every Tuesday. Yes, I am aware it’s Wednesday. I didn’t get to it yesterday.&lt;/p&gt;
+
+&lt;p&gt;Also, reading this over, it might sound like I’m homeschooled, which is false. The reason I’m shedding light on this subject is because of how bored I get when I take a day off from school, regardless of how much of a relief of work it is. I attend school 5 days a week like most kids do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Well, I’m gonna leave it at that because I guarantee none of this is making sense to any logical person. I’m gonna get some rest. Goodnight &amp;lt;3&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/10/October-30%2C-2013.html</id>
+      <updated>2013-10-30T12:37:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>October 23, 2013</title>
+      <link href="http://trommel.github.io/2013/10/October-23%2C-2013.html" />
+      <summary type="html">&lt;p&gt;Today was alright, but yesterday was better. Today, I had double block Math, which is my least favorite class, with my least favorite teacher. I also had Science at the beginning of the day with Mr. Ng, one of my favorite teachers. Not much happened today.&lt;/p&gt;
+
+&lt;p&gt;Like I was saying, yesterday was more interesting. Apple unveiled their brand new OS, Mavericks, named after a popular beach in California. I guess they’re done with cat names. I also had double block of video, which is the best class in my entire schedule. For the double block our teacher, Mr. French, put us into groups, which we would be filming with to collaborate on the next project, a horror film. We had 2 hours to plot out the entire movie, which isn’t a lot of time. We had to storyboard it as well, and even write down 9 different shots we’d use in our film (Only 9 shots because the film is supposed to be short). I got put in an odd group, but looking back I don’t think it’s that bad. I have Mackenzie, who’s known for having a super high pitched annoying voice, Mark, who is ‘that kid who still plays Pokémon’, Alex, who is actually a good friend of mine, but acts like he’s high 90% of the time I’m with him, Hailey, who’s also loud, and of course, me. Not too bad of a group, and hopefully our film will turn out to be good.&lt;/p&gt;
+
+&lt;p&gt;The movie we’re making hasn’t even been filmed yet, but we have a basic idea. I’m not going to talk about it here, but the video will be available on our YouTube channel &lt;a href=&quot;http://bit.ly/insidejokeproductions&quot;&gt;here&lt;/a&gt;, once it’s out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m gonna go grab an iced tea. Toodles.&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/10/October-23%2C-2013.html</id>
+      <updated>2013-10-13T12:35:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>October 11, 2013</title>
+      <link href="http://trommel.github.io/2013/10/October-11%2C-2013.html" />
+      <summary type="html">&lt;p&gt;Today was better than yesterday. First off, I had the rest of my 8 blocks. The way my school works is different, but it’s a good method. I have 8 classes that I have to be to in total. On day 1, I have the first 4 rotations, and on day 2, I have the 5 – 8 rotations. These rotations change order but all classes retain days, therefor Block 7 would never be with Block 2.&lt;/p&gt;
+
+&lt;p&gt;I definitely favour Day 2 over Day 1. First off, I have my favourite class of all time, Video Production, in Block 6, after Band (which I probably won’t be talking about in this post, simply because it wasn’t very exciting), which is also happens to be one of my favourite classes, due to the great teacher. Video Production is, simply put, what school should be like. It’s a place for everyone to express themselves in the way they see fit, and as long at what they present retains their maturity level (no sexual references, no degradation of sexes, etc), they can film what they like, and then display it on the big screen for the class to watch. This, of course, gives everybody many different options on who they’d like to to work with on their film. Currently, a couple of friends and I are filming Loveless, which is an awesome song by ‘Said the Whale’. It’s gone pretty good so far, and what’s turned out in the end isn’t exactly how I pictured it in the beginning, but that’s life.&lt;/p&gt;
+
+&lt;p&gt;After Video Production I have Gym, which I’ll admit is near the bottom of the “My Favourite Classes” list. Typically, I’ll shove my gym strip on and go with whatever [the gym teacher]‘s instructions are (usually a straight hour of push-ups and sit-ups), but today my friend, Alex, forgot his strip, and I didn’t really want to go to Gym anyways, as I was aware they where going to run laps at the dog park around the corner, which is about the worst thing to do in Gym. I decided to tell [the gym teacher] I had forgotten my stuff. Since he doesn’t get paid enough to care, he told me to go to the cafeteria and finish whatever homework I had due soon. Another one of my friends, Tyler, told [the gym teacher] that he had just sprained his ankle prior to arriving to class. Apparently his story was boughten, and we all headed to the cafeteria and waited for [the gym teacher] to bring the class to the dog park (off school grounds). Once they had rounded the corner, Alex, Tyler and I headed up to the library. I started programming tidbits of projects I’ve been working on, while Tyler and Alex played Happy Wheels, which seems to be accustomed to our school. This is what we did for the rest of class (1 hour). About 10 minutes before the bell rung, [the gym teacher] walked into the library, completed disregarding me and Alex’s existence, and headed straight for Tyler. Apparently Tyler hadn’t mentioned that he was away, so [the gym teacher] had marked Tyler as 100% there. My guess is that [the gym teacher] realized Tyler wasn’t there half way through class, and had to wait until the end of class to address it. He started yelling at Tyler in the middle of the library, and I’d be lying if I told you I didn’t laugh. After the feud between Tyler and [the gym teacher] was finished, the bell rang. We headed down to the film studio to finish up some editing on the film I was telling you about earlier, but soon saw that the room was being taken up by the ‘Gay-Straight Alliance Club’, meaning we weren’t allowed in for any video related stuff. We ate our lunches outside the room, and then headed back to the gym when the bell rang for the end of lunch. Tyler went and got his gym strip, in hopes that [the gym teacher] wouldn’t call his parents about what he had done, while Alex and I went to tell [the gym teacher] that we “still hadn’t found our strip”, then headed down to finish the video in film, and edited for the rest of class.&lt;/p&gt;
+
+&lt;p&gt;My last class of the day was English, which was pretty good, but nothing special. My teacher, Mr. Rice (great name), told us to go finish the rest of the project we had been working on. I finished mine in 10 minutes, and I talked to a couple of my friends, debating about iOS over Android for the rest of class.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Definitely a better day than yesterday.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;PS. With any teacher I don’t specifically enjoy, I’ll use their names as such: [subject teacher], thus not revealing any identities. Any teachers that I enjoy, I will include the name&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/10/October-11%2C-2013.html</id>
+      <updated>2013-10-11T12:30:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>October 10, 2013</title>
+      <link href="http://trommel.github.io/2013/10/October-10%2C-2013.html" />
+      <summary type="html">&lt;p&gt;Interesting Day today. I woke up at 6am, tired as always, hitting the sleep button for another 30 minutes. At 6:30 I went upstairs to eat breakfast. No good cereal, just Cheerios. After eating, I went and showered, and got ready for school. By 7:30, I was on my computer, talking to &lt;a href=&quot;http://twitter.com/lakotadlustig&quot;&gt;Lakota&lt;/a&gt; about &lt;a href=&quot;http://thefuturecurrencyproject.tk&quot;&gt;FutureCurrencyProject&lt;/a&gt;, a web project him and I are working on together (no spoilers here). At 7:50 my dad gave me a ride to school. I went to watch the movie I’ve been working on in Video Production class, which we’ve (friends and I) have been working on for the past couple of weeks. The bell rung and I headed to my first block, Science, with Mr. Ng, my favorite teacher of all time.&lt;/p&gt;
+
+&lt;p&gt;Mr. Ng is the best teacher anyone could ask for. I’ve never liked Science, but Mr. Ng makes everything seem logical, and makes an essence of hilarity that he retains throughout each class. He’s an all around awesome teacher.&lt;/p&gt;
+
+&lt;p&gt;Today’s class wasn’t great, as we were doing normal work, as usual. Mr. Ng lightened up the morning, and kept me awake.&lt;/p&gt;
+
+&lt;p&gt;Next class was Info Tech (learning computers), and I have to say honestly, school surprises you sometimes. Before I was in it, I thought Info Tech was going to be my favorite class, as computers and technology have always been my hobby, but this year it was the other way around. I don’t want to complain about a teacher on the internet because I believe that would be immature and unnecessary, but I can tell you [this teacher] is not my favourite. [This teacher] likes to yell at people, more than often and it gives me a headache at 10am. Hopefully it’ll end soon.&lt;/p&gt;
+
+&lt;p&gt;Next is Math. Math isn’t great either because it’s Math. Then again, Math with Mr. Koo is pretty fun. Most of my friends are in this class, and we all sit in the back row of the classroom talking most of the class. Typically, this isn’t a very good strategy for getting work done, but what we’re doing is simple, and I can complete in 10 minutes, opposed to 1 hour. Mr. Koo endorses all stereotypes of Asians, and this is what entertains me and my friends for the full double block (our school runs on a double block system. We have 4 blocks in a day, and the third block is before and after lunch, meaning, if Math is my third class I have 2 hours of it, opposed to 1. It works like this: 1 – 2 – 3 – LUNCH – 3 – 4). My friends and I are constantly imitating his thick accent, as we can’t nearly understand him. 2 hours of Koo are typically boring, but my friends and I try to make the best of it with the jokes we can come up with.&lt;/p&gt;
+
+&lt;p&gt;Last block was with the teacher that’s married to my Info Tech teacher (kinda odd). I’m not going to mention [the teacher]‘s name, simply because of the last name being relative to each other. My socials teacher is pretty nice, though. Today, instead of working, an aboriginal speaker came and presented backstory on the origination of Lacrosse and, at the end of the day, we were able to go play some outside in the field.&lt;/p&gt;
+
+&lt;p&gt;Not a bad day for a Josh.&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/10/October-10%2C-2013.html</id>
+      <updated>2013-10-10T12:28:00Z</updated>
+      <author>
+        <name>Josh Trommel</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>October 9, 2013</title>
+      <link href="http://trommel.github.io/2013/10/October-09%2C-2013.html" />
+      <summary type="html">&lt;p&gt;&lt;strong&gt;Alright,&lt;/strong&gt; so this is my first post. According to obvious standards I should be addressing what I&#39;m doing here, what I&#39;m going to be talking about, etc, etc. The answer to that question is a bit hard to give, because I don&#39;t know what I&#39;m going to be talking about. Hopefully anybody that reads this will find whatever it is interesting, but I won&#39;t have a specific topic. Hopefully that clears everything up about the subject.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To those who don&#39;t know, hi, I&#39;m Josh.&lt;/strong&gt; If you want to get to know me a bit more, &lt;a href=&quot;http://twitter.com/nulljosh&quot;&gt;follow me on Twitter&lt;/a&gt;. Also, you can &lt;a href=&quot;http://imjosh.me&quot;&gt;visit my website&lt;/a&gt; which, by the way, is more of an index of links than a website.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thanks for taking a look at my ‘blog’.&lt;/strong&gt; Hopefully later on I&#39;ll have more interesting topics to write about..&lt;/p&gt;
+</summary>
+      <id>http://trommel.github.io/2013/10/October-09%2C-2013.html</id>
+      <updated>2013-10-09T12:24:00Z</updated>
       <author>
         <name>Josh Trommel</name>
       </author>
