@@ -1,7 +1,15 @@
-pygments: true
-permalink: trommel.github.io/:year/:month/:day/:title
+name: "Josh Trommel"
+description: "guy"
+
+author: "Josh Trommel"
+
+url: "http://trommel.github.io"
+baseurl: "http://trommel.github.io"
+
 markdown: rdiscount
-exclude: ['.git']
-name: "josh trommel"
-description: "josh trommel - guy"
-url: https://trommel.github.io
+permalink: :year/:month/:title.html
+pygments: true
+
+# Google Analytics
+ga_domain: trommel.github.io
+ga_tracking_id: UA-47727049-1
