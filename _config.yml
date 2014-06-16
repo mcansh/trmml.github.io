@@ -1,15 +1,7 @@
-name: "Josh Trommel"
-description: "guy"
-
-author: "Josh Trommel"
-
-url: "http://trommel.github.io"
-baseurl: "http://trommel.github.io"
-
-markdown: rdiscount
-permalink: :year/:month/:title.html
 pygments: true
-
-# Google Analytics
-ga_domain: trommel.github.io
-ga_tracking_id: UA-47727049-1
+permalink: /otter-pop/:year/:month/:day/:title
+markdown: rdiscount
+exclude: ['.git']
+name: "Otter Pop"
+description: "The world's greated jekyll theme"
+url: http://tybenz.com/otter-pop
