@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/josht
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://trommel.github.io
+  * I am josht (https://keybase.io/josht) on keybase.
+  * I have a public key with fingerprint 0543 CF7F 4C9B 530F A4ED  4FCC F3FD 96FD C695 2C68
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0543cf7f4c9b530fa4ed4fccf3fd96fdc6952c68",
+            "host": "keybase.io",
+            "key_id": "f3fd96fdc6952c68",
+            "uid": "8feb524fc74814d65f24b3c81d205800",
+            "username": "josht"
+        },
+        "service": {
+            "hostname": "trommel.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402961270,
+    "expire_in": 157680000,
+    "prev": "5ac8d29fe2fb619e074beca84fbe03166c2f64453e126778eda292e3c4d3351c",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMH2AnicbZFdSBxXFMdn1VVjFeNHpVQtOC4NqJH5/tiqQQIaVOyDscW2yTpz597d
+ie7MdGZ2163Z+hKo5KG02lKKUBNKVAotIVCxBIM2Ngas6UNDxBgbWlgMIQGxqFgT
+9a61b30a7v/8zu+c4czlpRM5nlbrXKKU2h/2LMxsRoiO0US0n1RNLU76+8keePhB
+uhGEtmXrhkv6SYrnWIBExAFZ5VkKKRzUOAQAYpEmC0gDgswzQJDIGjJkOqkOrFEV
+B9bqJs7wI6BrOP0fPnJYkBBUeQYrRU6iOU3gEcOpLJBojaF4iaJSoANtQwlDTF8w
+nZBLJmpIHEV1gKP+w7lHZdc2w2HYWxvU3VBE/XcFyzZdE5i9uBxyXcvxp9rduJXi
+Y1ANHJkCqm5o+NdxRxTajm4apJ/GJHD1lJrmKEYWaEakakjYZ+k2DOgpghcFvCSF
+U8uGUazkFSBpjIwgg1SBliElcioEisQhFVIsLQiAQQLH8SykGUEUJagpjMxAFnAa
+y/I0wPMd+KFhYjeN91SC2OnoQUNxIzYkEz/PfJBBeHKITG9a6npEzrHj/91UeCNr
+r7rw/Xpy64qsBx59kYzfy40tVLc2ZY51/rPcUM9/uXY7RHdvjjDLw9NtrQPtfxTs
+Vv2ezfVNJoe+md1uOU382v1TeyOR/fzqRkFledNYS/nAWfFJw6n8jvtt15rr3lx6
+MTW/uzj3meX9+rvG/dhUmvrLxmtqu2+eDizdjaPk58+63lsp+5sq+nH9h4nFiu3x
+iknrTu6f6VuvlpxYXx2v9N78hE82f1r01RBVPlHybVFlxrsjsz0T+V7fybYHct1b
+VdMPi3N9T+c8lz7+PjRYeuaVUWPt5WDTR4XWdPFfvst5/MW3wyvv7NxaRZ29wcmd
+PbBaZv9GdD2O3sg6/3pHOJbddf0AZBoOHw==
+=7QSM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/josht
+
+==================================================================
+
