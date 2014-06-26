@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <Response>
-    <Say>i am gonna fuck you from the inside</Say>
-    <Say>when i am done with you there won't be anything left</Say>
-    <Say>get on the ground and pant</Say>
-    <Say>yeah man</Say>
+    <Play>https://api.twilio.com/cowbell.mp3</Play>
 </Response>
