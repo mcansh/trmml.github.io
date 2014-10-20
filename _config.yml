@@ -1,15 +1,11 @@
-name: "Josh"
-description: "#teen"
+# Site settings
+title: things that happen to me
+email: joshception@icloud.com
+description: hi i'm josh let's be friends
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://trommel.github.com" # the base hostname & protocol for your site
+twitter_username: nulljosh
+github_username:  trommel
 
-author: "Josh"
-
-url: "http://trommel.github.io"
-baseurl: "http://trommel.github.io"
-
-markdown: rdiscount
-permalink: :year/:month/:title.html
-pygments: true
-
-# Google Analytics
-ga_domain: trommel.github.io
-ga_tracking_id: UA-47727049-1
+# Build settings
+markdown: kramdown
