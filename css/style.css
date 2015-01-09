@@ -1,79 +1,107 @@
 /* #E0DFE9 */
+/* line 6, C:/sandbox/trommel.github.io/css/style.scss */
+html {
+  min-height: 100%; }
+
+/* line 10, C:/sandbox/trommel.github.io/css/style.scss */
 body {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
   font-family: Montserrat, sans-serif;
   background-color: #3991C0;
   color: #fff; }
 
+/* line 18, C:/sandbox/trommel.github.io/css/style.scss */
 header {
   background-color: #2d7399;
   color: #fff; }
 
+/* line 23, C:/sandbox/trommel.github.io/css/style.scss */
 nav {
   background-color: #3991C0; }
 
+/* line 27, C:/sandbox/trommel.github.io/css/style.scss */
 h1, h2, a, nav a {
   color: #fff; }
 
+/* line 31, C:/sandbox/trommel.github.io/css/style.scss */
 nav a:visited {
   color: white; }
 
+/* line 35, C:/sandbox/trommel.github.io/css/style.scss */
 nav a.selected, nav a:hover {
   color: #e6e6e6; }
 
+/* line 39, C:/sandbox/trommel.github.io/css/style.scss */
 #wrapper {
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%; }
 
+/* line 45, C:/sandbox/trommel.github.io/css/style.scss */
 a {
   text-decoration: none; }
 
+/* line 49, C:/sandbox/trommel.github.io/css/style.scss */
 img {
   max-width: 100%;
   width: 100%;
   height: 100%;
   margin: 5px auto; }
 
-li a p {
+/* line 56, C:/sandbox/trommel.github.io/css/style.scss */
+.project a p {
   max-width: 250px;
   margin: 0 auto; }
 
+/* line 61, C:/sandbox/trommel.github.io/css/style.scss */
 header {
-  float: left;
   margin: 0 0 30px 0;
   padding: 5px 0 0 0;
-  width: 100%; }
+  width: 100%;
+  text-align: center; }
 
+/* line 70, C:/sandbox/trommel.github.io/css/style.scss */
 #logo {
   text-align: center;
   margin: 0; }
 
+/* line 75, C:/sandbox/trommel.github.io/css/style.scss */
 h1 {
   margin: 20px 0 0 15px;
   font-size: 1.75em;
   line-height: 0.7em; }
 
+/* line 81, C:/sandbox/trommel.github.io/css/style.scss */
 h2 {
   font-size: 0.8em;
   margin: 15px 0 0 15px; }
 
+/* line 86, C:/sandbox/trommel.github.io/css/style.scss */
 nav {
   text-align: center;
   padding: 10px 0;
   margin: 20px 0 10px; }
 
+/* line 92, C:/sandbox/trommel.github.io/css/style.scss */
 nav ul {
   list-style: none;
   margin: 0 10px;
   padding: 0; }
 
+/* line 98, C:/sandbox/trommel.github.io/css/style.scss */
 nav li {
   display: inline-block; }
 
+/* line 102, C:/sandbox/trommel.github.io/css/style.scss */
 nav a {
   font-weight: 800;
   padding: 15px 10px; }
 
+/* line 107, C:/sandbox/trommel.github.io/css/style.scss */
 footer {
   font-size: 0.8em;
   text-align: center;
@@ -82,29 +110,53 @@ footer {
   color: #fff;
   margin-bottom: 3px; }
 
+/* line 116, C:/sandbox/trommel.github.io/css/style.scss */
 .social-icon {
   width: 25px;
   height: 25px;
   margin: 0 5px; }
 
+/* line 122, C:/sandbox/trommel.github.io/css/style.scss */
 #gallery {
   margin: 0;
   padding: 0;
-  list-style: none; }
+  list-style: none;
+  text-align: center; }
 
-#gallery li {
-  float: left;
+/* line 130, C:/sandbox/trommel.github.io/css/style.scss */
+#gallery .table {
+  display: table;
+  width: 100%;
+  height: 100%; }
+
+/* line 136, C:/sandbox/trommel.github.io/css/style.scss */
+#gallery .wrap {
+  display: table-cell;
+  vertical-align: top;
   width: 30%;
   max-width: 100%;
   margin: 1%;
+  padding: 1%; }
+
+/* line 145, C:/sandbox/trommel.github.io/css/style.scss */
+#gallery .project {
+  display: inline-block;
+  width: 100%;
   background-color: #3991C0;
   color: #fff; }
 
-#gallery li a p {
+/* line 157, C:/sandbox/trommel.github.io/css/style.scss */
+#gallery .project a {
+  display: block; }
+
+/* line 161, C:/sandbox/trommel.github.io/css/style.scss */
+#gallery .project a p {
   margin: 0;
   padding-top: 5%;
   max-width: 70%;
   font-size: 0.8em;
-  color: #fff; }
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto; }
 
 /*# sourceMappingURL=style.css.map */
