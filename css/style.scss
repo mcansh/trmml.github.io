@@ -170,3 +170,22 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
+
+p#bio, p#contact {
+    max-width: 50%;
+    margin: 0 auto;
+    line-height: 25px;
+    text-align: center;
+    & span#opening {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: block;
+        margin-bottom: 20px;
+    }
+    & a {
+        opacity: 0.8;
+        &:hover {
+            opacity: 1;
+        }
+    }
+}
