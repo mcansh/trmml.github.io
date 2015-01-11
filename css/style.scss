@@ -9,7 +9,7 @@ html {
 }
 body {
     //Boilerplate code that tells the body to use the entire window, even with empty space
-    position:absolute; top:0; bottom:0; right:0; left:0; 
+    position:absolute; top:0; bottom:0; right:0; left:0;
     font-family: $font-family;
     background-color: $background-color;
     color: $primary-color;
@@ -29,11 +29,11 @@ h1, h2, a, nav a {
 }
 
 nav a:visited {
-    color: lighten($primary-color, 10%) 
+    color: lighten($primary-color, 10%)
 }
 
 nav a.selected, nav a:hover {
-    color: darken($primary-color, 10%) 
+    color: darken($primary-color, 10%)
 }
 
 #wrapper {
@@ -111,6 +111,7 @@ footer {
     padding-top: 50px;
     color: $primary-color;
     margin-bottom: 3px;
+    opacity: 0.8;
 }
 
 .social-icon {
