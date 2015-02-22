@@ -1,65 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Josh Trommel | Developer</title>
-        <link rel="stylesheet" href="css/normalize.css">
-        <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="css/style.css">
-    </head>
-    <body>
-        <header>
-            <a href="index.html" id="logo">
-                <h1>Josh Trommel</h1>
-                <h2>Developer</h2>
-            </a>
-            <nav>
-                <ul>
-                    <li><a href="index.html" class="selected">Portfolio</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-            </nav>
-        </header>
-        <div id="wrapper">
-            <div id="gallery">
-
-                <div class="table">
-
-                    <div class="wrap">
-                        <div class="project">
-                            <a href="https://github.com/trommel/oliver">
-                                <img src="img/oliver_screenshot.png" alt="oliver screenshot">
-                                <p>Oliver manages your local GitHub repositories for you.</p>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="wrap">
-                        <div class="project">
-                            <a href="https://github.com/trommel/textymous">
-                                <img src="img/textymous_screenshot.png" alt="oliver screenshot">
-                                <p>Textymous allows you to anonymously text friends with ease.</p>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="wrap">
-                        <div class="project">
-                            <a href="https://github.com/trommel/endure">
-                                <img src="img/endure_screenshot.png" alt="oliver screenshot">
-                                <p>Endure is a survival text-based game.</p>
-                            </a>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-            <footer>
-                <a href="https://twitter.com/joshtrommel"><img src="img/twitter.png" alt="Twitter Logo" class="social-icon"></a>
-                <a href="mailto:joshtrommel@gmail.com"><img src="img/mail.png" alt="Mail Icon" class="social-icon"></a>
-                <p>&copy; 2015 Josh Trommel</p>
-            </footer>
+---
+layout: base
+---
+<div class="wrapper">
+    <header>
+        {% if site.compass.logo %}
+        <div class="logo-container">
+          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
         </div>
-    </body>
-</html>
+        {% endif %}
+
+        {% if site.compass.author %}
+        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
+        {% endif %}
+
+        {% if site.compass.tagline %}
+        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
+        {% endif %}
+    </header>
+    <main>
+      {% if site.compass.include_content %}
+      <div class="content">
+        {% include content.html %}
+      </div>
+      {% endif %}
+    </main>
+</div>
