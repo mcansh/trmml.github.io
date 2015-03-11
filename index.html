@@ -1,27 +1,33 @@
----
-layout: base
----
-<div class="wrapper">
-    <header>
-        {% if site.compass.logo %}
-        <div class="logo-container">
-          <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
-        </div>
-        {% endif %}
-
-        {% if site.compass.author %}
-        <div class="author-container"><h1>{{ site.compass.author }}</h1></div>
-        {% endif %}
-
-        {% if site.compass.tagline %}
-        <div class="tagline-container"><p>{{ site.compass.tagline }}</p></div>
-        {% endif %}
-    </header>
-    <main>
-      {% if site.compass.include_content %}
-      <div class="content">
-        {% include content.html %}
-      </div>
-      {% endif %}
-    </main>
-</div>
+<DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Josh Trommel</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.css" media="all">
+    <link rel="stylesheet" href="bower_components/hover/css/hover-min.css" media="all">
+    <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <img class="container" src="img/avatar.jpg">
+      <h1>Josh Trommel</h1>
+      <h2>Hey, I'm Josh. I like programming, reading, learning, writing,
+        photography, video production, creating, collaboration, the oxford
+        comma, and travelling.
+      </h2>
+      <div class="social">
+       <a href="https://twitter.com/nulljosh" class="twitter icon fa fa-twitter hvr-float"></a>
+       <a href="https://github.com/trommel" class="github icon fa fa-github-alt hvr-float"></a>
+       <a href="https://instagram.com/adjectivepug" class="instagram icon fa fa-instagram hvr-float"></a>
+       <a href="http://www.last.fm/user/jshtrmml" class="last-fm icon fa fa-lastfm hvr-float"></a>
+       <a href="resume.pdf" class="resume icon fa fa-file-text hvr-float"></a>
+       <!-- <a href="mailto:joshtrommel@gmail.com" class="email icon fa fa-send hvr-float"></a> -->
+     </div>
+      <footer>
+        Made with <span class="heart animated infinite pulse fa fa-heart"></span> in Langley, BC
+      </footer>
+    </div>
+  </body>
+</html>

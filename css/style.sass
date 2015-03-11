@@ -1,0 +1,98 @@
+@import url(http://fonts.googleapis.com/css?family=Sanchez:400italic,400)
+
+$primary-colour: darken(#E9E9E9, 20%)
+$background-colour: white
+$anchor-colour: #EB7B59
+$img-size: 30%
+$font-family: Sanchez, Helvetica, sans-serif
+$font-size: 40px
+
+body
+  max-width: 60%
+  background: $background-colour
+  margin: auto
+  text-align: center
+  margin-top: 7%
+
+@media screen and (max-width: 500px)
+  body
+    max-width: 80%
+
+@media screen and (max-width: 700px)
+  body
+    max-width: 70%
+
+@media screen and (max-width: 810px)
+  body
+    max-width: 90%
+    margin: inherit 5% 0 5%
+
+.wrapper
+  text-align: center
+  color: $primary-colour
+  font-family: $font-family
+
+  img
+    border-radius: 100%
+    max-width: auto
+    max-height: auto
+    max-width: $img-size
+    max-height: $img-size
+
+  a
+    color: inherit
+    text-decoration: none
+
+  h1
+    font-size: $font-size
+
+  h2
+    font-size: $font-size - 19px
+    font-weight: 400
+    @media screen and (max-width: 500px)
+      font-size: $font-size - 24px
+      margin: 2% 0 2%
+
+  .social
+    margin: 5%
+    color: rgba(0, 0, 0, 0.4)
+    font-size: $font-size - 10px
+
+    @media screen and (max-width: 500px)
+      .icon
+        font-size: $font-size - 18px
+
+    @media screen and (max-width: 600px)
+      .icon
+        font-size: $font-size - 15px
+
+    .icon
+      margin: 0 4% 0 4%
+      max-width: auto
+
+    .twitter:hover
+      color: #00aced
+
+    .github:hover
+      color: #333
+
+    .instagram:hover
+      color: #517fa4
+
+    .last-fm:hover
+      color: #c81e24
+
+    .email:hover
+      color: #0B486B
+
+    .resume:hover
+      color: #776DA9
+
+  footer
+    font-family: $font-family
+    margin-top: 5%
+    font-size: $font-size - 20px
+    .heart
+      font-family: FontAwesome
+      color: #CF4647
+      font-size: $font-size - 20px
