@@ -4,11 +4,11 @@ https://keybase.io/josht
 
 I hereby claim:
 
-  * I am an admin of https://trommel.github.com
+  * I am an admin of http://joshtrommel.com
   * I am josht (https://keybase.io/josht) on keybase.
   * I have a public key with fingerprint 0543 CF7F 4C9B 530F A4ED  4FCC F3FD 96FD C695 2C68
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
@@ -22,47 +22,47 @@ To claim this, I am signing this object:
         },
         "revoke": {
             "sig_ids": [
-                "304a5f58b464432a6a09ce73ed23d02dddc835500c1865ca7b2beb022f00735d0f"
+                "c0e7c80cd3c18813fc92ca7443f61b4d3c2718b802479392ed3bf94d7f77cead0f"
             ]
         },
         "service": {
-            "hostname": "trommel.github.com",
-            "protocol": "https:"
+            "hostname": "joshtrommel.com",
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1420338518,
+    "ctime": 1426270082,
     "expire_in": 157680000,
-    "prev": "bde59a1361ce053199efc42aaa390a7e2bf4657ed1ab367335016af4ba47a76f",
-    "seqno": 32,
+    "prev": "39f98a758a046ca4d4de00cf0db587413d14971370e1b1e940546c3dca0d077b",
+    "seqno": 41,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.1
+Version: Keybase OpenPGP v2.0.8
 Comment: https://keybase.io/crypto
 
-yMJpAnicbZJdiFVVFMfvaI06MTgPfoxOCO7SRK6XffbXOecmSNFDUk8i+THqdX/O
-HGfuOddzztwcbvfBQB2whoFuTA6MFDgqUkohWIkfI+PHIJKYJk4PFQmhLwVhWmG2
-z2BvPW32Wv/1W/+19p5onZlraXqjsrXeAZ980HR1/JO+3PqjY2/VgIhUPyjWQI+e
-PkwQdum4EgdhCooAUoKlcQ2RvqAYGk60IkZKg43ymVGS+RRJ5oE86I6SrMJiBE90
-IYhszF5KgbLR/9H3TCegAx3iKgONYdKTFDnIdw3EXBAfakoZYoZ5SHLqSy2hYUwp
-bhzkuh53sK10JIPc4vqmcZ7RgiLr0CWeQxSjBhGBpecoBKkHYSZMdBzysrbqHVHS
-nYJ6HsS6GvXobPwk6LKOE1DsBBgSTg31BGGEYMQZh9aDi7VCWEGklJIephRC6XiM
-Su4KJLSACBkIXUwVNGCrZdt21UBOw7MVPW2dxlG5rHsLXUHa3ScKMipba5U4SiMZ
-9dp8d5pWkmLmLe2vZAVva1F6iiqJIFT2mWxFVcdJEIWg6FilTIOM7RAEMfao4+WB
-3lUJYl0KMgV1md0AhFkfXbVIoTT17RaZIzWk2PF9bSRBnHPsQ+5qJAxh1NXK4QIz
-F2MKHcYNEZy43GUGZMPtDCNQxMj65F2WafcX8rQv1qB+4fyWZ3JNLbnmZ2dkPy3X
-Mqftv/9Xn5r1eMHl+Veb9136+v6Gk/DwqZHllz5M7xzcd6Z0IBxa1tFO60N/z/2t
-9sdE27yLbONfC5c8XDh6pbAcvT6s6IV5rx2acv9pWz2094WZ8PlbX/3Qfmzy4Lfv
-frP5i/DMc4MDdw9tStT91gf4otdYMNKYON6/aP5wbf+xlWM/v7niVHnwRrh924xX
-17z0SNfW/lSdmz9yrXWy9vnHOFr1/ezG2IP1j2/Vxm58ue33T8892XP2xTsdyel1
-69J4Gdl9YHx88BcycDtY8YrXON1b2PHd0anPRmqLT0Cw6sTw2tH9mweu/fpOp/7x
-z40ftb886l9+79715pv3jpDO20uv7zo5me/U2xuL7r6/Zeni3Xv/BbIeRn8=
-=3M52
+yMJjAnicbZJraFRHFMd31fhIiY9UbekWlfERxSgzd+bembui0VQFNajgA8Uk69x5
+ZG8ee9e7N2ujbAulUhSE2PhFQfCDioIKisYv4luTVrQoyuL7BYKUCuaLgqCdG1ro
+h34a5pz/+Z3/mTnXqoYmKpMr8k2lFPzck7x5+UBnYt3Qmp+2Ay+QXSC9HbSpwUP7
+uRYV5kM/F4E0gDbBQlNNhOvZGGpOlCRaCI21dB0thePalnAYqAXZoBBXGIzHC2qu
+H5iYuWR8aaL/o28bTEAEEaFSQ60dwYRtIculGmLuERcq23YsRzvMEtx2hRJQO46U
+XCOLUsYRNpVIOJAbXOcgjmnl2ZZxSAlDRDq2toiHBUPSgjaDMBYWVJjjHcqoW4NC
+NgKlWhCqYtCm4vELfotxXADpTUBARQWDQmKBGENYC9f4oIRg7SCPmLBFEfMYtAh1
+sWspiT3tEkk1pUJxCTVoMmzTruiLQXj8RP9tHQYdHap9rgg6jK98GESBCNpNMhtF
++XTsK+rKx+Ktysv8g8l4fk6aLzIFRRUW/CAH0sgoReTHXEQsx6IQMqsWqO/zfqgy
+fqywqWOmhzBuo4oGiV3tMk5txiFxBCeSSAWh0FB6NqMEYYmISxGmUCEPKZeYTXAE
+loJDCSn1QDzYllwA0gQZn7zFMM3b5XjUGSpQunKpcVgiWZkYXjEk3rJE5aix/+7e
+qw0jEwfKe8rn+7+rq3y99Y/5fb9WL17l709tLt89Xj1teS+4vfLtpBFTFzb0Xr/7
+5fS1j5pTJ+sn1R3+bd67HburFnxz8eSank+vn987Up8p9y5uXfTnnuP9c4Jf1jeW
+smNn27cq6sjP788POfzh/chTU7fd7vYn9za9a6hPHevOetXF5nlvqh6PfjZ72Muu
+s62pmsb5N6q37CIXxyy9+bG9/GBFcsmEio0DMzZY575a9u3TWcmugZ7T0+TD03zf
+6Et9y2qe7Bvej3ecKCwZuLZmxvhRCyZ2z4TBLF76q7nhcsPBpYw/vnrn7Jk3R/B9
+cWHv133y6KNdO9vn/L7thQ9+RD9M+SKaXB5Xf/TQ09V/A0sdOOc=
+=uN9+
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -71,4 +71,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/josht
 
 ==================================================================
-
