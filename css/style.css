@@ -41,7 +41,7 @@ body {
   .wrapper .social {
     margin: 5%;
     color: rgba(0, 0, 0, 0.4);
-    font-size: 30px; }
+    font-size: 37px; }
     @media screen and (max-width: 500px) {
       .wrapper .social .icon {
         font-size: 22px; } }
@@ -63,6 +63,8 @@ body {
       color: #0B486B; }
     .wrapper .social .resume:hover {
       color: #776DA9; }
+    .wrapper .social .flickr:hover {
+      color: #ff0084; }
   .wrapper footer {
     font-family: Sanchez, Helvetica, sans-serif;
     margin-top: 5%;
