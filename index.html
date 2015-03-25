@@ -8,6 +8,24 @@
     <link rel="stylesheet" href="bower_components/hover/css/hover-min.css" media="all">
     <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
     <link rel="stylesheet" href="css/style.css">
+    <script>
+    function request (url, callback) {
+        var xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', function () {
+            callback(JSON.parse(xhr.responseText));
+        });
+        xhr.open('GET', url, true);
+        xhr.send();
+    }
+    request('http://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) {
+        var $element = document.querySelector('#content');
+        if (data.error) {
+            $element.innerText = 'Failed to load.';
+        } else {
+            $element.innerText = data.result.name + ' by ' + data.result.artist['#text'] + '.'
+        }
+    });
+</script>
   </head>
   <body>
     <div class="wrapper">
@@ -15,7 +33,8 @@
       <h1>Josh Trommel</h1>
       <h2>Hey, I'm Josh. I like programming, reading, learning, writing,
         photography, video production, creating, collaboration, the oxford
-        comma, and travelling.
+        comma, and travelling. He's currently listening to
+        <span id="content">...</span>
       </h2>
       <div class="social">
        <a href="https://twitter.com/nulljosh" class="twitter icon fa fa-twitter hvr-float"></a>
@@ -28,6 +47,7 @@
      </div>
       <footer>
         Made with <span class="heart animated infinite pulse fa fa-heart"></span> in Langley, BC
+        <div </div>
       </footer>
     </div>
   </body>
