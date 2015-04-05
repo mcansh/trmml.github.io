@@ -16,7 +16,7 @@ request('http://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) 
     $link.href = data.result.url;
     $link.innerText = data.result.name;
     var $extra = document.createDocumentFragment();
-    $extra.textContent = ' by ' + data.result.artist['#text'] + '.';
+    $extra.textContent = ' by ' + data.result.artist['#text'];
     $element.innerText = '';
     $element.appendChild($link);
     $element.appendChild($extra);

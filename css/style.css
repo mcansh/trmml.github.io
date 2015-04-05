@@ -1,75 +1,25 @@
-@import url(http://fonts.googleapis.com/css?family=Sanchez:400italic,400);
 body {
-  max-width: 60%;
-  background: white;
-  margin: auto;
-  text-align: center;
-  margin-top: 7%; }
+  max-width: 95%;
+  margin: 2% auto; }
 
-@media screen and (max-width: 500px) {
-  body {
-    max-width: 80%; } }
-@media screen and (max-width: 700px) {
-  body {
-    max-width: 70%; } }
-@media screen and (max-width: 810px) {
-  body {
-    max-width: 90%;
-    margin: inherit 5% 0 5%; } }
 .wrapper {
-  text-align: center;
-  color: #b6b6b6;
-  font-family: Sanchez, Helvetica, sans-serif; }
-  .wrapper img {
-    border-radius: 100%;
-    max-width: auto;
-    max-height: auto;
-    max-width: 30%;
-    max-height: 30%; }
-  .wrapper a {
-    color: inherit;
-    text-decoration: none; }
+  font-size: 1.4em;
+  padding-left: 2%; }
   .wrapper h1 {
-    font-size: 40px; }
-  .wrapper h2 {
-    font-size: 21px;
-    font-weight: 400; }
-    @media screen and (max-width: 500px) {
-      .wrapper h2 {
-        font-size: 16px;
-        margin: 2% 0 2%; } }
-  .wrapper .social {
-    margin: 3%;
-    color: rgba(0, 0, 0, 0.4);
-    font-size: 37px; }
-    @media screen and (max-width: 500px) {
-      .wrapper .social .icon {
-        font-size: 22px; } }
-    @media screen and (max-width: 600px) {
-      .wrapper .social .icon {
-        font-size: 25px; } }
-    .wrapper .social .icon {
-      margin: 0 4% 0 4%;
-      max-width: auto; }
-    .wrapper .social .twitter:hover {
-      color: #00aced; }
-    .wrapper .social .github:hover {
-      color: #333; }
-    .wrapper .social .instagram:hover {
-      color: #517fa4; }
-    .wrapper .social .last-fm:hover {
-      color: #c81e24; }
-    .wrapper .social .email:hover {
-      color: #0B486B; }
-    .wrapper .social .resume:hover {
-      color: #776DA9; }
-    .wrapper .social .flickr:hover {
-      color: #ff0084; }
+    margin: 0;
+    font-family: "Karla", serif; }
+  .wrapper p, .wrapper ul li {
+    font-family: "Fira Mono", mono;
+    line-height: 1.8em; }
+    .wrapper p a, .wrapper ul li a {
+      font-weight: bold;
+      color: #3498db; }
+  .wrapper ul {
+    padding: 0;
+    margin: 0;
+    list-style: none; }
+    .wrapper ul li {
+      line-height: 2.5em; }
   .wrapper footer {
-    font-family: Sanchez, Helvetica, sans-serif;
     margin-top: 5%;
-    font-size: 20px; }
-    .wrapper footer .heart {
-      font-family: FontAwesome;
-      color: #CF4647;
-      font-size: 20px; }
+    font-family: "Fira Mono", mono; }
