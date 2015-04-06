@@ -8,6 +8,8 @@ body {
   .wrapper h1 {
     margin: 0;
     font-family: "Karla", serif; }
+  .wrapper .about {
+    max-width: 80%; }
   .wrapper p, .wrapper ul li {
     font-family: "Fira Mono", mono;
     line-height: 1.8em; }
@@ -26,5 +28,5 @@ body {
     .wrapper ul li {
       line-height: 2.5em; }
   .wrapper footer {
-    margin-top: 5%;
+    margin-top: 3%;
     font-family: "Fira Mono", mono; }
