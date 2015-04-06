@@ -13,7 +13,12 @@ body {
     line-height: 1.8em; }
     .wrapper p a, .wrapper ul li a {
       font-weight: bold;
-      color: #3498db; }
+      color: #3498db;
+      text-decoration: none; }
+      .wrapper p a:hover, .wrapper ul li a:hover {
+        text-decoration: underline; }
+      .wrapper p a:active, .wrapper ul li a:active {
+        color: #1d6fa5; }
   .wrapper ul {
     padding: 0;
     margin: 0;
