@@ -7,8 +7,9 @@ function request (url, callback) {
   xhr.open('GET', url, true);
   xhr.send();
 }
+
 request('http://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) {
-  var $element = document.querySelector('#content');
+  var $element = document.querySelector('#lastfm-current');
   if (data.error) {
     $element.innerText = 'Failed to load.';
   } else {
@@ -20,5 +21,14 @@ request('http://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) 
     $element.innerText = '';
     $element.appendChild($link);
     $element.appendChild($extra);
+  }
+});
+
+request('http://teamtreehouse.com/josht.json', function (data) {
+  var $badges = document.querySelector('#treehouse-badges');
+  if (data.error) {
+    $element.innerText = 'Failed to load.';
+  } else {
+    $badges.innerText = data.badges.length;
   }
 });
