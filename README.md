@@ -1,3 +1,3 @@
-# site
+# probablyjosh.github.io
 
-my site, influenced by [Douglas'](http://istx25.io/).
+my personal landing page splash screen sort of thing, available at joshtrommel.com.
