@@ -27,8 +27,17 @@ request('http://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) 
 request('http://teamtreehouse.com/josht.json', function (data) {
   var $badges = document.querySelector('#treehouse-badges');
   if (data.error) {
-    $element.innerText = 'Failed to load.';
+    $badges.innerText = 'Failed to load.';
   } else {
     $badges.innerText = data.badges.length;
+  }
+});
+
+request('https://api.github.com/users/probablyjosh/repos', function(data) {
+  var $repos = document.querySelector('#github-repos');
+  if (data.error) {
+    $repos.innerText = 'Failed to load';
+  } else {
+    $repos.innerText = data.length;
   }
 });
