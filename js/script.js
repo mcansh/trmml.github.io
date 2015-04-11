@@ -32,12 +32,3 @@ request('http://teamtreehouse.com/josht.json', function (data) {
     $badges.innerText = data.badges.length;
   }
 });
-
-request('https://api.github.com/users/probablyjosh/repos', function(data) {
-  var $repos = document.querySelector('#github-repos');
-  if (data.error) {
-    $repos.innerText = 'Failed to load';
-  } else {
-    $repos.innerText = data.length;
-  }
-});
