@@ -1,36 +1,38 @@
-$header-stack: "Avenir Next", serif
-$font-stack: "Fira Mono", mono
+$font-stack: "Avenir Next", serif
 $anchor-color: #3498db
 
-body
-  max-width: 95%
-  margin: 2% 2% 0 2%
 .wrapper
-  font-size: 1.4em
-  padding-left: 2%
+  margin: 10vh 0 0 25vw
+  padding: 10px
+  font-family: $font-stack
+  line-height: 2em
   h1
-    margin: 0
-    font-family: $header-stack
-  .about
-    max-width: 80%
-  p, ul li
-    font-family: $font-stack
-    line-height: 1.8em
+    font-size: 2.5em
+  #about
+    max-width: 50vw
+    font-size: 1.5em
+  #social
+    max-width: 45vw
+    font-size: 1.6em
+    margin-bottom: 2vw
     a
-      font-weight: bold
-      color: $anchor-color
+      color: inherit
       text-decoration: none
       &:hover
         text-decoration: underline
-      &:active
-        color: darken($anchor-color, 15%)
-  ul
-    padding: 0
-    margin: 0
-    list-style: none
-    li
-      line-height: 2.3em
-
-  footer
-    margin-top: 3%
-    font-family: $font-stack
+      &.twitter:hover
+        color: #00aced
+      &.github:hover
+        color: #333
+      &.instagram:hover
+        color: #517fa4
+      &.lastfm:hover
+        color: #ef4128
+      &.treehouse:hover
+        color: #6fc778
+      &.intui:hover
+        color: #e83300
+      &.email:hover
+        color: #f9c75c
+      &.resume:hover
+        color: #5b91fa

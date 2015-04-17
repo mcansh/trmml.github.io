@@ -1,32 +1,35 @@
-body {
-  max-width: 95%;
-  margin: 2% 2% 0 2%; }
-
 .wrapper {
-  font-size: 1.4em;
-  padding-left: 2%; }
+  margin: 10vh 0 0 25vw;
+  padding: 10px;
+  font-family: "Avenir Next", serif;
+  line-height: 2em; }
   .wrapper h1 {
-    margin: 0;
-    font-family: "Avenir Next", serif; }
-  .wrapper .about {
-    max-width: 80%; }
-  .wrapper p, .wrapper ul li {
-    font-family: "Fira Mono", mono;
-    line-height: 1.8em; }
-    .wrapper p a, .wrapper ul li a {
-      font-weight: bold;
-      color: #3498db;
+    font-size: 2.5em; }
+  .wrapper #about {
+    max-width: 50vw;
+    font-size: 1.5em; }
+  .wrapper #social {
+    max-width: 45vw;
+    font-size: 1.6em;
+    margin-bottom: 2vw; }
+    .wrapper #social a {
+      color: inherit;
       text-decoration: none; }
-      .wrapper p a:hover, .wrapper ul li a:hover {
+      .wrapper #social a:hover {
         text-decoration: underline; }
-      .wrapper p a:active, .wrapper ul li a:active {
-        color: #1d6fa5; }
-  .wrapper ul {
-    padding: 0;
-    margin: 0;
-    list-style: none; }
-    .wrapper ul li {
-      line-height: 2.3em; }
-  .wrapper footer {
-    margin-top: 3%;
-    font-family: "Fira Mono", mono; }
+      .wrapper #social a.twitter:hover {
+        color: #00aced; }
+      .wrapper #social a.github:hover {
+        color: #333; }
+      .wrapper #social a.instagram:hover {
+        color: #517fa4; }
+      .wrapper #social a.lastfm:hover {
+        color: #ef4128; }
+      .wrapper #social a.treehouse:hover {
+        color: #6fc778; }
+      .wrapper #social a.intui:hover {
+        color: #e83300; }
+      .wrapper #social a.email:hover {
+        color: #f9c75c; }
+      .wrapper #social a.resume:hover {
+        color: #5b91fa; }
