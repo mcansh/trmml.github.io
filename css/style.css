@@ -1,37 +1,37 @@
+body {
+  color: black;
+  background: #2ecc71; }
+
 .wrapper {
-  margin: 10vh 0 0 25vw;
+  margin: 10vh 0 0 15vw;
+  max-width: 60%;
   padding: 10px;
   font-family: "Avenir Next", serif;
-  line-height: 2em; }
+  line-height: 2.8em; }
+  .wrapper #about {
+    font-size: 1.6em; }
+    .wrapper #about img {
+      width: 10%;
+      margin-left: 2%;
+      transform: rotate(18deg);
+      margin: 0 0 -15px 2px; }
   .wrapper h1 {
     font-size: 2.5em; }
-  .wrapper #about {
-    max-width: 50vw;
-    font-size: 1.5em; }
-  .wrapper #social {
+  .wrapper hr {
+    height: 1vh;
+    background: black;
+    border-color: black;
+    margin-bottom: 5vh; }
+  .wrapper ul#social {
     max-width: 45vw;
     font-size: 1.6em;
-    margin-bottom: 2vw; }
-    .wrapper #social a {
+    margin-bottom: 2vw;
+    padding: 0; }
+    .wrapper ul#social li {
+      list-style-type: none;
+      font-style: italic; }
+    .wrapper ul#social a {
       color: inherit;
       text-decoration: none; }
-      .wrapper #social a:hover {
-        text-decoration: underline; }
-      .wrapper #social a.twitter:hover {
-        color: #00aced; }
-      .wrapper #social a.github:hover {
-        color: #333; }
-      .wrapper #social a.instagram:hover {
-        color: #517fa4; }
-      .wrapper #social a.lastfm:hover {
-        color: #ef4128; }
-      .wrapper #social a.treehouse:hover {
-        color: #6fc778; }
-      .wrapper #social a.intui:hover {
-        color: #e83300; }
-      .wrapper #social a.email:hover {
-        color: #f9c75c; }
-      .wrapper #social a.resume:hover {
-        color: #5b91fa; }
-      .wrapper #social a.svbtle:hover {
-        color: black; }
+      .wrapper ul#social a:hover {
+        border-bottom: 1px solid black; }
