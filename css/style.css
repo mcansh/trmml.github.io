@@ -18,8 +18,7 @@ body {
     .wrapper #about img {
       width: 10%;
       margin-left: 2%;
-      transform: rotate(18deg);
-      margin: 0 0 -15px 2px; }
+      margin: 0 0 -10px 2px; }
   .wrapper h1 {
     font-size: 2.5em; }
   .wrapper hr {
