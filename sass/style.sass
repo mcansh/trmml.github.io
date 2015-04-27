@@ -1,40 +1,20 @@
-$font-stack: "Avenir Next", serif
-$primary-color: black
-$background-color: #2ecc71
+$splash-primary-color: white
+$splash-background-color: #3498db
+$splash-font-stack: "Avenir Next", Helvetica, sans-serif
 
 body
-  color: $primary-color
-  background: $background-color
-
-.wrapper
-  margin: 10vh 0 0 15vw
-  max-width: 60%
-  padding: 10px
-  font-family: $font-stack
-  line-height: 2.8em
-  a
-    color: inherit
-    text-decoration: none
-    &:hover
-      border-bottom: 1px solid $primary-color
-  #about
-    font-size: 1.6em
-    img
-      width: 10%
-      margin-left: 2%
-      margin: 0 0 -10px 2px
-  h1
-    font-size: 2.5em
-  hr
-    height: 1vh
-    background: $primary-color
-    border-color: $primary-color
-    margin-bottom: 5vh
-  ul#social
-    max-width: 45vw
-    font-size: 1.6em
+  #splashscreen
+    background-color: $splash-background-color
+    color: $splash-primary-color
+    font-family: $splash-font-stack
+    text-align: center
+    padding: 32vh
     margin-bottom: 2vw
-    padding: 0
-    li
-      list-style-type: none
-      font-style: italic
+    .content
+      h1
+        margin-bottom: 2vw
+        font-size: 5vw
+      h2
+        margin: 0
+        font-style: italic
+        font-size: 3vw
