@@ -7,7 +7,7 @@ function request (url, callback) {
   xhr.open('GET', url, true);
   xhr.send();
 }
-request('http://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) {
+request('https://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) {
   var $element = document.querySelector('#content');
   if (data.error) {
     $element.innerText = 'Failed to load.';
