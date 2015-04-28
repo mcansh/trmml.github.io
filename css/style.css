@@ -17,7 +17,7 @@
 #about {
   font-family: "Avenir Next", Helvetica, sans-serif; }
   #about .content .main {
-    padding: 5vw;
+    padding: 5vw 5vw 2vw 5vw;
     font-size: 2vw;
     text-align: center; }
   #about .content p {
@@ -27,3 +27,24 @@
       text-decoration: none; }
       #about .content p a:hover {
         text-decoration: underline; }
+
+footer {
+  text-align: center;
+  padding: 1vh 3vh 7vh 2vh; }
+  footer .social a {
+    color: inherit; }
+    footer .social a i {
+      margin: 0 3vw 0 3vw;
+      font-size: 3vw; }
+      footer .social a i.fa-twitter:hover {
+        color: #00aced; }
+      footer .social a i.fa-github:hover {
+        color: #333; }
+      footer .social a i.fa-instagram:hover {
+        color: #517fa4; }
+      footer .social a i.fa-cc-stripe:hover {
+        color: #319ada; }
+      footer .social a i.fa-file-text:hover {
+        color: #9b59b6; }
+      footer .social a i.fa-envelope-o:hover {
+        color: #e74c3c; }

@@ -21,7 +21,7 @@
   font-family: $about-font-stack
   .content
     .main
-      padding: 5vw
+      padding: 5vw 5vw 2vw 5vw
       font-size: 2vw
       text-align: center
     p
@@ -31,3 +31,25 @@
         text-decoration: none
         &:hover
           text-decoration: underline
+footer
+  text-align: center
+  padding: 1vh 3vh 7vh 2vh
+  .social
+    a
+      color: inherit
+      i
+        margin: 0 3vw 0 3vw
+        font-size: 3vw
+        // Make a mixin for this at some point
+        &.fa-twitter:hover
+          color: $twitter-colour
+        &.fa-github:hover
+          color: $github-colour
+        &.fa-instagram:hover
+          color: $instagram-colour
+        &.fa-cc-stripe:hover
+          color: $stripe-colour
+        &.fa-file-text:hover
+          color: $resume-colour
+        &.fa-envelope-o:hover
+          color: $email-colour
