@@ -48,3 +48,6 @@ footer {
         color: #9b59b6; }
       footer .social a i.fa-envelope-o:hover {
         color: #e74c3c; }
+  footer .copyright {
+    margin-top: 8vh;
+    font-family: "Avenir Next", Helvetica, sans-serif; }
