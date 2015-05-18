@@ -22,6 +22,7 @@ request('http://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) 
         "twitter": "@nulljosh",
         "github": "probablyjosh",
         "email": "joshtrommel at gmail dot com",
+        "resume": "/resume.pdf",
         "music": final
       }
     };
