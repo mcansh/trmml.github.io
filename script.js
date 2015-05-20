@@ -14,7 +14,7 @@ request('http://last-fm-api-josh-trommel.herokuapp.com/latest', function (data) 
   } else {
     var song_name = data.result.name;
     var artist_name = data.result.artist['#text']
-    var final = song_name + ' by ' + artist_name
+    var final = song_name + ' (by ' + artist_name + ')'
     var data = {
       "message": "There'll be something here soon.",
       "author": {
