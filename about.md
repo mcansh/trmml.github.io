@@ -5,7 +5,7 @@ title: About Me
 
 About
 =====
-I write a blog here. I also have social networks that I'm kind of a part of but I'm trying to stay away from them for now. I hope you understand.
+I write a blog here. I also have social networks that I'm kind of a part of but I'm trying to stay away from stuff like Twitter for now. I'm a fan of media tracking social networks, for some reason. Hopefully you understand.
 
 I'm a 16 year-old developer (hardly) and designer (barely). Hard on myself, yes. I'm also extremely modest. I don't know what else to write for this paragraph.
 
