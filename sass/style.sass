@@ -1,7 +1,5 @@
 @import colours
-$header-family: Arimo, Avenir Next, Helvetica, sans-serif
-$portfolio-header-stack: Playfair Display, serif
-$text-colour: white
+@import variables
 
 html, body, div, img
 	margin: 0
@@ -11,7 +9,7 @@ html, body, div, img
 
 header
 	.welcome
-		height: 80vh
+		padding: 1vh 4vh 8vh 4vh
 		background-color: $blue
 		color: $text-colour
 		font-family: $header-family
@@ -20,7 +18,7 @@ header
 		img
 			border: 3px solid $grey
 			border-radius: 30%
-			width: 14%
+			width: 16%
 			height: auto
 			margin: 15vh 10vh 5vh 10vh
 		p
@@ -35,6 +33,7 @@ header
 
 .portfolio, .social, .contact
 	text-align: center
+	padding: 5vh
 	h1
 		font-family: $portfolio-header-stack
 	ul
@@ -43,12 +42,12 @@ header
 			display: inline
 			a
 				img
-					width: 35%
+					width: 45%
 					height: auto
 
 .social
 	background-color: $blue
-	padding: 5vh
+	padding: 8vh
 	color: $text-colour
 	h1
 		margin: 3vh 3vh 7vh 3vh
@@ -60,7 +59,6 @@ header
 .contact
 	font-family: $header-family
 	background-color: white
-	margin: 5vh
 	a, a:link
 		color: inherit
 		text-decoration: none
@@ -75,3 +73,16 @@ footer
 	background: $blue
 	text-align: center
 	color: $text-colour
+
+@media (max-width: 700px)
+	header
+		.welcome
+			img
+				width: 30%
+	.portfolio
+		ul
+			li
+				img
+					width: 45vh !important
+					margin: auto
+					display: block
