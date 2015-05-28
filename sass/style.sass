@@ -1,0 +1,88 @@
+@import colours
+@import variables
+
+html, body, div, img
+	margin: 0
+	padding: 0
+	border: 0
+	font-size: 100%
+
+header
+	.welcome
+		padding: 1vh 4vh 8vh 4vh
+		background-color: $blue
+		color: $text-colour
+		font-family: $header-family
+		text-align: center
+		line-height: 1.7
+		img
+			border: 3px solid $grey
+			border-radius: 30%
+			width: 16%
+			height: auto
+			margin: 15vh 10vh 5vh 10vh
+		p
+			margin: 0
+			a, a:link
+				color: inherit
+				text-decoration: none
+				border-bottom: 1px solid
+				padding: 2px
+				&:hover
+					border-bottom: 0px solid
+
+.portfolio, .social, .contact
+	text-align: center
+	padding: 5vh
+	h1
+		font-family: $portfolio-header-stack
+	ul
+		li
+			list-style-type: none
+			display: inline
+			a
+				img
+					width: 45%
+					height: auto
+
+.social
+	background-color: $blue
+	padding: 8vh
+	color: $text-colour
+	h1
+		margin: 3vh 3vh 7vh 3vh
+	.fa
+		font-size: 2em
+		margin: 0 2vw 0 2vw
+		color: $text-colour
+
+.contact
+	font-family: $header-family
+	background-color: white
+	a, a:link
+		color: inherit
+		text-decoration: none
+		border-bottom: 1px solid
+		padding: 1px
+		&:hover
+			border-bottom: 0px solid
+
+footer
+	font-family: $header-family
+	padding: 3vh
+	background: $blue
+	text-align: center
+	color: $text-colour
+
+@media (max-width: 700px)
+	header
+		.welcome
+			img
+				width: 30%
+	.portfolio
+		ul
+			li
+				img
+					width: 45vh !important
+					margin: auto
+					display: block
