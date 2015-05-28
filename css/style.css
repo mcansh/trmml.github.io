@@ -25,7 +25,6 @@ header .welcome {
       border-bottom: 1px solid;
       padding: 2px; }
       header .welcome p a:hover, header .welcome p a:link:hover {
-        color: #6ebe84;
         border-bottom: 0px solid; }
 
 .portfolio, .social, .contact {
@@ -51,6 +50,7 @@ header .welcome {
     color: white; }
 
 .contact {
+  font-family: Arimo, Avenir Next, Helvetica, sans-serif;
   background-color: white;
   margin: 5vh; }
   .contact a, .contact a:link {
@@ -59,7 +59,6 @@ header .welcome {
     border-bottom: 1px solid;
     padding: 1px; }
     .contact a:hover, .contact a:link:hover {
-      color: #6ebe84;
       border-bottom: 0px solid; }
 
 footer {
