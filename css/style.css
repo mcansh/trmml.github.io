@@ -5,33 +5,37 @@ html, body, div, img {
   font-size: 100%; }
 
 header .welcome {
-  padding: 1vh 4vh 8vh 4vh;
-  background-color: #3498db;
+  padding: 10vh;
+  background-color: #35c2ff;
   color: white;
-  font-family: Arimo, Avenir Next, Helvetica, sans-serif;
+  font-family: Montserrat, sans-serif;
   text-align: center;
   line-height: 1.7; }
-  header .welcome img {
-    border: 3px solid #dddddd;
-    border-radius: 30%;
-    width: 16%;
-    height: auto;
-    margin: 15vh 10vh 5vh 10vh; }
-  header .welcome p {
+  header .welcome h1 {
+    font-size: 10vh;
     margin: 0; }
+  header .welcome p {
+    margin: 0;
+    font-size: 3vh; }
     header .welcome p a, header .welcome p a:link {
+      border-bottom: 1px solid black;
+      transition: border-color 0.1s linear;
+      -webkit-transition: border-color 0.1s linear;
+      -moz-transition: border-color 0.1s linear;
+      -o-transition: border-color 0.1s linear;
       color: inherit;
       text-decoration: none;
       border-bottom: 1px solid;
       padding: 2px; }
       header .welcome p a:hover, header .welcome p a:link:hover {
-        border-bottom: 0px solid; }
+        border-color: transparent; }
 
 .portfolio, .social, .contact {
   text-align: center;
   padding: 5vh; }
   .portfolio h1, .social h1, .contact h1 {
-    font-family: Playfair Display, serif; }
+    font-family: Arvo, serif;
+    margin: 3vh 3vh 7vh 3vh; }
   .portfolio ul li, .social ul li, .contact ul li {
     list-style-type: none;
     display: inline; }
@@ -40,7 +44,7 @@ header .welcome {
       height: auto; }
 
 .social {
-  background-color: #3498db;
+  background-color: #35c2ff;
   padding: 8vh;
   color: white; }
   .social h1 {
@@ -51,27 +55,33 @@ header .welcome {
     color: white; }
 
 .contact {
-  font-family: Arimo, Avenir Next, Helvetica, sans-serif;
-  background-color: white; }
+  font-family: Montserrat, sans-serif;
+  background-color: white;
+  margin: 3vh;
+  line-height: 4vh; }
+  .contact h1 {
+    margin: 3vh 3vh 7vh 3vh; }
   .contact a, .contact a:link {
     color: inherit;
     text-decoration: none;
     border-bottom: 1px solid;
-    padding: 1px; }
+    padding: 1px;
+    border-bottom: 1px solid black;
+    transition: border-color 0.1s linear;
+    -webkit-transition: border-color 0.1s linear;
+    -moz-transition: border-color 0.1s linear;
+    -o-transition: border-color 0.1s linear; }
     .contact a:hover, .contact a:link:hover {
-      border-bottom: 0px solid; }
+      border-color: transparent; }
 
 footer {
-  font-family: Arimo, Avenir Next, Helvetica, sans-serif;
+  font-family: Montserrat, sans-serif;
   padding: 3vh;
-  background: #3498db;
+  background: #35c2ff;
   text-align: center;
   color: white; }
 
 @media (max-width: 700px) {
-  header .welcome img {
-    width: 30%; }
-
   .portfolio ul li img {
     width: 45vh !important;
     margin: auto;
