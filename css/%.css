@@ -11,17 +11,17 @@ header .welcome {
   color: white;
   font-family: Montserrat, sans-serif;
   line-height: 1.7;
-  margin: 4em; }
+  margin: 3em; }
   header .welcome h1 {
-    font-size: 5em;
+    font-size: 60%;
     color: #35c2ff;
     opacity: 0.5; }
     header .welcome h1:hover {
       color: #a9eadd; }
   header .welcome p {
     color: #ddd;
-    font-size: 2em;
-    max-width: 75%; }
+    font-size: 3em;
+    max-width: 55%; }
     header .welcome p a, header .welcome p a:link {
       opacity: 0.5;
       color: #35c2ff;
