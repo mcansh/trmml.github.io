@@ -2,7 +2,8 @@ html, body, div, img {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%; }
+  font-size: 100%;
+  max-width: 100%; }
 
 header .welcome {
   padding: 10vh;
@@ -60,7 +61,7 @@ header .welcome {
   line-height: 2;
   color: black; }
   .contact h1 {
-    margin: 3vh 3vh 5vh 3vh; }
+    margin: 3vh 3vh 3vh 3vh; }
   .contact a, .contact a:link {
     color: inherit;
     text-decoration: none;
@@ -85,4 +86,8 @@ footer {
   .portfolio ul li img {
     width: 45vh !important;
     margin: auto;
-    display: block; } }
+    display: block; }
+
+  .social .fa {
+    font-size: 2em;
+    margin: 3%; } }
