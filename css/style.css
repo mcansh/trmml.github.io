@@ -80,7 +80,9 @@ footer {
   padding: 3vh;
   background: #35c2ff;
   text-align: center;
-  color: white; }
+  color: white; 
+  position: absolute;
+  width: 100%; }
 
 @media (max-width: 700px) {
   .portfolio ul li img {
