@@ -1,39 +1,53 @@
-div.wrapper header {
-  text-align: right;
-  margin: 15vh 2vw 0 10vw;
-  line-height: 1em;
-  float: left;
-  font-family: "Montserrat", sans-serif; }
-  div.wrapper header h1 {
-    font-size: 2em; }
-  div.wrapper header h2 {
-    color: grey;
-    font-size: 1.5em; }
-  div.wrapper header img {
-    max-width: 28%;
-    min-width: 23%;
-    border-radius: 10%; }
-  div.wrapper header header {
+@media only screen and (max-width: 500px) {
+  div.wrapper {
+    float: none; }
+    div.wrapper header {
+      text-align: center !important; }
+    div.wrapper hr {
+      display: inline-block !important;
+      margin: 10px !important; }
+    div.wrapper div.portfolio ul {
+      text-align: center; } }
+div.wrapper {
+  padding: 10%; }
+  div.wrapper header {
+    text-align: right;
+    line-height: 1em;
+    float: left;
     font-family: "Montserrat", sans-serif; }
-  div.wrapper header i.fa {
-    font-size: 1.5em;
-    padding: 5px; }
-  div.wrapper header i.fa-twitter:hover {
-    color: #4099FF; }
-  div.wrapper header i.fa-envelope-o:hover {
-    color: #E0432E; }
-div.wrapper div.portfolio {
-  float: right;
-  font-family: "Montserrat", sans-serif;
-  text-align: left;
-  margin: 12vh 30vw 0 0; }
-  div.wrapper div.portfolio ul {
-    list-style-type: none; }
-    div.wrapper div.portfolio ul li {
-      line-height: 1.5em; }
-      div.wrapper div.portfolio ul li a {
-        color: grey;
-        text-decoration: none;
-        font-weight: normal; }
-        div.wrapper div.portfolio ul li a:hover {
-          color: black; }
+    div.wrapper header h1 {
+      font-size: 2em; }
+    div.wrapper header h2 {
+      color: grey;
+      font-size: 1.5em; }
+    div.wrapper header img {
+      max-width: 28%;
+      min-width: 23%;
+      border-radius: 10%; }
+    div.wrapper header header {
+      font-family: "Montserrat", sans-serif; }
+    div.wrapper header a {
+      color: inherit; }
+    div.wrapper header i.fa {
+      font-size: 1.5em;
+      padding: 5px; }
+    div.wrapper header i.fa-twitter:hover {
+      color: #4099FF; }
+    div.wrapper header i.fa-envelope-o:hover {
+      color: #E0432E; }
+  div.wrapper hr {
+    display: none; }
+  div.wrapper div.portfolio {
+    float: right;
+    font-family: "Montserrat", sans-serif;
+    text-align: left; }
+    div.wrapper div.portfolio ul {
+      list-style-type: none; }
+      div.wrapper div.portfolio ul li {
+        line-height: 1.5em; }
+        div.wrapper div.portfolio ul li a {
+          color: grey;
+          text-decoration: none;
+          font-weight: normal; }
+          div.wrapper div.portfolio ul li a:hover {
+            color: black; }

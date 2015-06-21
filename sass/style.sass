@@ -1,9 +1,21 @@
 $sans-font-family: 'Montserrat', sans-serif
 
+@media only screen and (max-width: 500px)
+	div.wrapper
+		float: none
+		header
+			text-align: center !important
+		hr
+			display: inline-block !important
+			margin: 10px !important
+		div.portfolio
+			ul
+				text-align: center
+
 div.wrapper
+	padding: 10%
 	header
 		text-align: right
-		margin: 15vh 2vw 0 10vw
 		line-height: 1em
 		float: left
 		font-family: $sans-font-family
@@ -18,6 +30,8 @@ div.wrapper
 			border-radius: 10%
 		header
 			font-family: $sans-font-family
+		a
+			color: inherit
 		i.fa
 			font-size: 1.5em
 			padding: 5px
@@ -26,11 +40,13 @@ div.wrapper
 		i.fa-envelope-o:hover
 			color: #E0432E
 
+	hr
+		display: none
+
 	div.portfolio
 		float: right
 		font-family: $sans-font-family
 		text-align: left
-		margin: 12vh 30vw 0 0
 		ul
 			list-style-type: none
 			li
