@@ -1,7 +1,8 @@
 <!DOCTYPE html>
+<!-- I'm still working on making this repsonsive and not shitty -->
 <html lang="en">
 	<head>
-		<title>Josh Trommel | Developer</title>
+		<title>Josh Trommel</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="apple-touch-icon" sizes="57x57" href="img/pple-icon-57x57.png">
@@ -21,65 +22,40 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
-		<link rel="stylesheet" href="bower_components/Hover/css/hover.css">
-		<link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
-		<link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.css" media="all">
-		<link href='http://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="//brick.a.ssl.fastly.net/Playfair+Display:900">
+		<link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
+		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="css/style.css">
-		<script src="bower_components/wowjs/dist/wow.min.js"></script>
-		<script>
-			new WOW().init();
-			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-			  ga('create', 'UA-63572868-1', 'auto');
-			  ga('send', 'pageview');
-		</script>
 	</head>
 	<body>
-		<header>
-			<div class="welcome">
+		<div class="wrapper">
+
+			<header>
+				<img src="img/avi.jpg" alt="avatar">
 				<h1>Josh Trommel</h1>
-				<p>
-					Visual thinker, problem solver, <a href="http://en.wikipedia.org/wiki/ENFJ">ENFJ</a>.
-					Developer based in Vancouver, BC.
-				</p>
+				<h2>Software Engineer</h2>
+				<h2>Vancouver</h2>
+				<i class="fa fa-twitter"></i>
+				<i class="fa fa-envelope-o"></i>
+			</header>
+
+			<div class="portfolio">
+				<ul id="articles">
+					<li><strong>Articles</strong></li>
+					<li><a href="http://nulljosh.svbtle.com/may-11-2015">May 11, 2015</a></li>
+					<li><a href="http://nulljosh.svbtle.com/february-28-2015">February 28, 2015</a></li>
+					<li><a class="more" href="http://nulljosh.svbtle.com">More on Svbtle</a></li>
+				</ul>
+
+				<ul id="open-source">
+					<li><strong>Open Source</strong></li>
+					<li id="first-repo"></li>
+					<li id="second-repo"></li>
+					<li><a class="more" href="http://github.com/probablyjosh">More on GitHub</a></li>
+				</ul>
+
 			</div>
-		</header>
-		<div class="portfolio wow slideInUp">
-			<h1>Recent Stuff</h1>
-			<ul>
-				<li><a href="https://github.com/probablyjosh/oliver">
-					<img class="hvr-float" src="img/screenshots/oliver.png"></a>
-				</li>
-				<li><a href="https://github.com/probablyjosh/flass">
-					<img class="hvr-float" src="img/screenshots/flass.png"></a>
-				</li>
-			</ul>
+
 		</div>
-		<div class="social wow slideInUp">
-			<h1>Elsewhere</h1>
-			<a href="https://twitter.com/JoshTrommel"><i class="hvr-grow fa fa-twitter"></i></a>
-			<a href="https://github.com/probablyjosh"><i class="hvr-grow fa fa-github-alt"></i></a>
-			<a href="http://www.last.fm/user/jshtrmml"><i class="hvr-grow fa fa-lastfm"></i></a>
-			<a href="https://instagram.com/adjectivepug"><i class="hvr-grow fa fa-instagram"></i></a>
-			<a href="https://www.flickr.com/photos/joshtrommel/"><i class="hvr-grow fa fa-flickr"></i></a>
-			<a href="mailto:joshtrommel@gmail.com"><i class="hvr-grow fa fa-envelope-o"></i></a>
-		</div>
-		<div class="contact wow slideInUp">
-			<h1>Contact</h1>
-			<p>
-				I'm available for freelance work.<br>
-				<a href="mailto:joshtrommel@gmail.com">Email</a> me if you'd like to work with me, or if you have any questions.<br>
-				If you'd like to see a résumé, <a href="resume.pdf">I've got one right here.</a>
-			</p>
-		</div>
-		<footer wow slideInUp>
-			© 2015 Josh Trommel
-		</footer>
 	</body>
+	<script src="js/script.js"></script>
 </html>

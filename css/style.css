@@ -1,95 +1,39 @@
-html, body, div, img {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  max-width: 100%; }
-
-header .welcome {
-  padding: 10vh;
-  background-color: #35c2ff;
-  color: white;
-  font-family: Montserrat, sans-serif;
-  text-align: center;
-  line-height: 1.7; }
-  header .welcome h1 {
-    font-size: 5em;
-    margin: 0; }
-  header .welcome p {
-    margin: 0;
-    font-size: 1.3em; }
-    header .welcome p a, header .welcome p a:link {
-      border-bottom: 1px solid black;
-      transition: border-color 0.1s linear;
-      -webkit-transition: border-color 0.1s linear;
-      -moz-transition: border-color 0.1s linear;
-      -o-transition: border-color 0.1s linear;
-      color: inherit;
-      text-decoration: none;
-      border-bottom: 1px solid;
-      padding: 2px; }
-      header .welcome p a:hover, header .welcome p a:link:hover {
-        border-color: transparent; }
-
-.portfolio, .social, .contact {
-  text-align: center;
-  padding: 5vh; }
-  .portfolio h1, .social h1, .contact h1 {
-    font-family: Arvo, serif;
-    margin: 3vh 3vh 7vh 3vh; }
-  .portfolio ul li, .social ul li, .contact ul li {
-    list-style-type: none;
-    display: inline; }
-    .portfolio ul li a img, .social ul li a img, .contact ul li a img {
-      width: 45%;
-      height: auto; }
-
-.social {
-  background-color: #35c2ff;
-  padding: 8vh;
-  color: white; }
-  .social h1 {
-    margin: 3vh 3vh 7vh 3vh; }
-  .social .fa {
-    font-size: 2em;
-    margin: 0 2vw 0 2vw;
-    color: white; }
-
-.contact {
-  font-family: Montserrat, sans-serif;
-  background-color: white;
-  line-height: 2;
-  color: black; }
-  .contact h1 {
-    margin: 3vh 3vh 3vh 3vh; }
-  .contact a, .contact a:link {
-    color: inherit;
-    text-decoration: none;
-    border-bottom: 1px solid;
-    padding: 1px;
-    border-bottom: 1px solid black;
-    transition: border-color 0.1s linear;
-    -webkit-transition: border-color 0.1s linear;
-    -moz-transition: border-color 0.1s linear;
-    -o-transition: border-color 0.1s linear; }
-    .contact a:hover, .contact a:link:hover {
-      border-color: transparent; }
-
-footer {
-  font-family: Montserrat, sans-serif;
-  padding: 3vh;
-  background: #35c2ff;
-  text-align: center;
-  color: white; 
-  position: absolute;
-  width: 100%; }
-
-@media (max-width: 700px) {
-  .portfolio ul li img {
-    width: 45vh !important;
-    margin: auto;
-    display: block; }
-
-  .social .fa {
-    font-size: 2em;
-    margin: 3%; } }
+div.wrapper header {
+  text-align: right;
+  margin: 15vh 2vw 0 10vw;
+  line-height: 1em;
+  float: left;
+  font-family: "Montserrat", sans-serif; }
+  div.wrapper header h1 {
+    font-size: 2em; }
+  div.wrapper header h2 {
+    color: grey;
+    font-size: 1.5em; }
+  div.wrapper header img {
+    max-width: 28%;
+    min-width: 23%;
+    border-radius: 10%; }
+  div.wrapper header header {
+    font-family: "Montserrat", sans-serif; }
+  div.wrapper header i.fa {
+    font-size: 1.5em;
+    padding: 5px; }
+  div.wrapper header i.fa-twitter:hover {
+    color: #4099FF; }
+  div.wrapper header i.fa-envelope-o:hover {
+    color: #E0432E; }
+div.wrapper div.portfolio {
+  float: right;
+  font-family: "Montserrat", sans-serif;
+  text-align: left;
+  margin: 15vh 35vw 0 0; }
+  div.wrapper div.portfolio ul {
+    list-style-type: none; }
+    div.wrapper div.portfolio ul li {
+      line-height: 1.5em; }
+      div.wrapper div.portfolio ul li a {
+        color: grey;
+        text-decoration: none;
+        font-weight: normal; }
+        div.wrapper div.portfolio ul li a:hover {
+          color: black; }
