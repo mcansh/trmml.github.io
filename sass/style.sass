@@ -2,12 +2,16 @@ $sans-font-family: 'Montserrat', sans-serif
 
 @media only screen and (max-width: 500px)
 	div.wrapper
-		float: none
+		text-align: center
 		header
 			text-align: center !important
 		hr
+			width: 50%
 			display: inline-block !important
-			margin: 10px !important
+			border-left: none
+			border-right: none
+			background: black
+			height: 1px
 		div.portfolio
 			ul
 				text-align: center
@@ -17,7 +21,6 @@ div.wrapper
 	header
 		text-align: right
 		line-height: 1em
-		float: left
 		font-family: $sans-font-family
 		h1
 			font-size: 2em
@@ -44,7 +47,6 @@ div.wrapper
 		display: none
 
 	div.portfolio
-		float: right
 		font-family: $sans-font-family
 		text-align: left
 		ul

@@ -1,11 +1,15 @@
 @media only screen and (max-width: 500px) {
   div.wrapper {
-    float: none; }
+    text-align: center; }
     div.wrapper header {
       text-align: center !important; }
     div.wrapper hr {
+      width: 50%;
       display: inline-block !important;
-      margin: 10px !important; }
+      border-left: none;
+      border-right: none;
+      background: black;
+      height: 1px; }
     div.wrapper div.portfolio ul {
       text-align: center; } }
 div.wrapper {
@@ -13,7 +17,6 @@ div.wrapper {
   div.wrapper header {
     text-align: right;
     line-height: 1em;
-    float: left;
     font-family: "Montserrat", sans-serif; }
     div.wrapper header h1 {
       font-size: 2em; }
@@ -38,7 +41,6 @@ div.wrapper {
   div.wrapper hr {
     display: none; }
   div.wrapper div.portfolio {
-    float: right;
     font-family: "Montserrat", sans-serif;
     text-align: left; }
     div.wrapper div.portfolio ul {
