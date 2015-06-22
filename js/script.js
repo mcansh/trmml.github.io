@@ -16,4 +16,5 @@ function addGH(id, index) {
 
 addGH('first-repo', 0)
 addGH('second-repo', 1)
-document.getElementById('now-playing').innerHTML = '<a href="'+ song['recenttracks']['track'][0]['url'] + '">'+ song['recenttracks']['track'][0]['name'] + '</a>'
+song = song['recenttracks']['track'][0]
+document.getElementById('now-playing').innerHTML = '<a href="'+ song['url'] + '">'+ song['name'] + ' - ' + song['artist']['#text'] + '</a>'
