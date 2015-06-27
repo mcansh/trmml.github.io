@@ -1,7 +1,9 @@
 var ghResponse = get('https://api.github.com/users/probablyjosh/repos?sort=pushed')
 var lastfmResponse = get('http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=jshtrmml&api_key=0a7d3b25ed857f679eba1a353e98a658&format=json')
+var svbtleReponse = get('https://svbtle-api.herokuapp.com/nulljosh/latest/2')
 var repos = JSON.parse(ghResponse).slice(0, 2)
 var song = JSON.parse(lastfmResponse)
+var posts = JSON.parse(svbtleReponse)
 
 function get(url) {
     var xmlHttp = new XMLHttpRequest();
@@ -16,4 +18,7 @@ function addGH(id, index) {
 
 addGH('first-repo', 0)
 addGH('second-repo', 1)
-document.getElementById('now-playing').innerHTML = '<a href="'+ song['recenttracks']['track'][0]['url'] + '">'+ song['recenttracks']['track'][0]['name'] + '</a>'
+
+document.getElementById('first-post').innerHTML = '<a href="' +  posts[0]['url'] + '"> ' + posts[0]['title'] + '</a>'
+document.getElementById('second-post').innerHTML = '<a href="' +  posts[1]['url'] + '"> ' + posts[1]['title'] + '</a>'
+document.getElementById('now-playing').innerHTML = '<a href="' + song['recenttracks']['track'][0]['url'] + '">' + song['recenttracks']['track'][0]['name'] + '</a>'
