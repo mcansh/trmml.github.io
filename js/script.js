@@ -1,4 +1,4 @@
-var ghResponse = get('https://api.github.com/users/probablyjosh/repos?sort=pushed')
+var ghResponse = get('https://api.github.com/users/trommel/repos?sort=pushed')
 var lastfmResponse = get('http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=jshtrmml&api_key=0a7d3b25ed857f679eba1a353e98a658&format=json')
 var svbtleReponse = get('https://svbtle-api.herokuapp.com/nulljosh/latest/2')
 var repos = JSON.parse(ghResponse).slice(0, 2)
