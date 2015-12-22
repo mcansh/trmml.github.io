@@ -5,7 +5,7 @@ var jade = require('gulp-jade');
 gulp.task('default', ['sass', 'jade']);
 
 gulp.task('watch', function() {
-	gulp.watch('lib/sass/style.sass', ['sass']);
+	gulp.watch('lib/sass/*.sass', ['sass']);
 	gulp.watch('lib/index.jade', ['jade']);
 });
 
