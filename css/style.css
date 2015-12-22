@@ -5,30 +5,28 @@
   font-size: 100%;
   max-width: 100%; }
 
-.wrapper header .name {
-  text-transform: uppercase; }
-
-.wrapper header .welcome {
+.wrapper .welcome {
+  padding: 10%;
+  text-align: center;
   background-color: white;
-  display: inline-block;
   color: white;
   font-family: Montserrat, sans-serif;
-  line-height: 1.7;
-  margin: 4em; }
-  .wrapper header .welcome h1 {
-    font-size: 5em;
+  line-height: 1.7; }
+  .wrapper .welcome h1.name {
+    display: inline-block;
+    font-size: 4em;
     color: #35c2ff;
-    opacity: .5; }
-    .wrapper header .welcome h1:hover {
+    opacity: .5;
+    text-transform: uppercase; }
+    .wrapper .welcome h1.name:hover {
       color: #a9eadd; }
-  .wrapper header .welcome p {
+  .wrapper .welcome p {
     color: #ddd;
-    font-size: 2em;
-    max-width: 75%; }
-    .wrapper header .welcome p a, .wrapper header .welcome p a:link {
+    font-size: 2em; }
+    .wrapper .welcome p a, .wrapper .welcome p a:link {
       opacity: .5;
       color: #35c2ff;
       text-decoration: none;
       padding: 2px; }
-      .wrapper header .welcome p a:hover, .wrapper header .welcome p a:link:hover {
+      .wrapper .welcome p a:hover, .wrapper .welcome p a:link:hover {
         color: #a9eadd; }

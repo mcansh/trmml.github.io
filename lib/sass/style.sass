@@ -1,5 +1,6 @@
 @import colours
 @import variables
+@import media
 
 *
 	margin: 0
@@ -9,30 +10,28 @@
 	max-width: 100%
 
 .wrapper
-	header
-		.name
-			text-transform: uppercase
-		.welcome
-			background-color: $white
+	.welcome
+		padding: 10%
+		text-align: center
+		background-color: $white
+		color: $white
+		font-family: $header-family
+		line-height: 1.7
+		h1.name
 			display: inline-block
-			color: $white
-			font-family: $header-family
-			line-height: 1.7
-			margin: 4em
-			h1
-				font-size: 5em
-				color: $blue
+			font-size: 4em
+			color: $blue
+			opacity: .5
+			text-transform: uppercase
+			&:hover
+				color: $green
+		p
+			color: $grey
+			font-size: 2em
+			a, a:link
 				opacity: .5
+				color: $blue
+				text-decoration: none
+				padding: 2px
 				&:hover
 					color: $green
-			p
-				color: $grey
-				font-size: 2em
-				max-width: 75%
-				a, a:link
-					opacity: .5
-					color: $blue
-					text-decoration: none
-					padding: 2px
-					&:hover
-						color: $green
