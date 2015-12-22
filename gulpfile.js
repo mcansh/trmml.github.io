@@ -5,12 +5,12 @@ var jade = require('gulp-jade');
 gulp.task('default', ['sass', 'jade']);
 
 gulp.task('watch', function() {
-	gulp.watch('sass/style.sass', ['sass']);
-	gulp.watch('index.jade', ['jade']);
+	gulp.watch('lib/sass/style.sass', ['sass']);
+	gulp.watch('lib/index.jade', ['jade']);
 });
 
 gulp.task('jade', function() {
-	return gulp.src('index.jade')
+	return gulp.src('lib/index.jade')
 		.pipe(jade({
 			pretty:true
 		}))
@@ -18,7 +18,7 @@ gulp.task('jade', function() {
 })
 
 gulp.task('sass', function() {
-	return gulp.src('sass/style.sass').
+	return gulp.src('lib/sass/style.sass').
 		pipe(sass())
 		.pipe(gulp.dest('css'));
 });
